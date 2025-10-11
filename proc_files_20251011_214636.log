@@ -1,0 +1,1559 @@
+[2025-10-11T21:46:36+03:00] Сбор группы: files
+[2025-10-11T21:46:36+03:00] === PID: 1 ===
+[2025-10-11T21:46:36+03:00] cmdline: /sbin/init splash
+[2025-10-11T21:46:36+03:00] root: 
+[2025-10-11T21:46:36+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 10 ===
+[2025-10-11T21:46:36+03:00] cmdline: 
+[2025-10-11T21:46:36+03:00] root: 
+[2025-10-11T21:46:36+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 100 ===
+[2025-10-11T21:46:36+03:00] cmdline: 
+[2025-10-11T21:46:36+03:00] root: 
+[2025-10-11T21:46:36+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 10044 ===
+[2025-10-11T21:46:36+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:43257 -prefMapHandle 1:273844 -jsInitHandle 2:223368 -parentBuildID 20251003234612 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {64e93f91-11af-4b42-a008-d5f12271e6b4} -parentPid 9126 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 10 tab
+[2025-10-11T21:46:36+03:00] environ: 188 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/10046/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 43 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 10137 ===
+[2025-10-11T21:46:36+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:43298 -prefMapHandle 1:273844 -jsInitHandle 2:223368 -parentBuildID 20251003234612 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {5a862821-af3a-438b-9284-9095b319782c} -parentPid 9126 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 11 tab
+[2025-10-11T21:46:36+03:00] environ: 188 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/10139/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 43 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 10304 ===
+[2025-10-11T21:46:36+03:00] cmdline: /snap/telegram-desktop/6822/usr/bin/telegram-desktop --
+[2025-10-11T21:46:36+03:00] environ: 120 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 73 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11073 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome
+[2025-10-11T21:46:36+03:00] environ: 2122 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 302 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11080 ===
+[2025-10-11T21:46:36+03:00] cmdline: cat
+[2025-10-11T21:46:36+03:00] environ: 61 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11081 ===
+[2025-10-11T21:46:36+03:00] cmdline: cat
+[2025-10-11T21:46:36+03:00] environ: 61 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11083 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/dima/.config/google-chrome/Crash Reports --metrics-dir=/home/dima/.config/google-chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 25.04 --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=141.0.7390.76 --initial-client-fd=5 --shared-client-connection
+[2025-10-11T21:46:36+03:00] environ: 61 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11085 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/dima/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 25.04 --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=141.0.7390.76 --initial-client-fd=4 --shared-client-connection
+[2025-10-11T21:46:36+03:00] environ: 61 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11091 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable
+[2025-10-11T21:46:36+03:00] environ: 2122 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 13 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11092 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable
+[2025-10-11T21:46:36+03:00] environ: 2162 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 13 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11094 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable
+[2025-10-11T21:46:36+03:00] environ: 2162 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 14 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11123 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=gpu-process --ozone-platform=wayland --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --metrics-shmem-handle=4,i,17256848730409674730,5209278966417610191,262144 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1681 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 98 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11125 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,6051523343338439000,11039926008765061177,524288 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 2005 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 44 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11136 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,6771857841886863630,5214340317461201797,524288 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1757 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 43 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11258 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=utility --utility-sub-type=proxy_resolver.mojom.ProxyResolverFactory --lang=en-US --service-sandbox-type=service --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,15834104309337993991,14785454652085759889,524288 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1742 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 23 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11270 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=5794271441 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,8130755972750459001,1193037665144614862,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1646 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 42 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11326 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=13 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=5831695287 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,10785030407079384809,5358287367960392306,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1644 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 66 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11394 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=19 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=5851886025 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,10315290776347104348,6815823841223220115,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1644 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 66 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11427 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=22 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=5868758980 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,16356499275800769019,9539485970874760654,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1644 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 41 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11535 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=30 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=5986116611 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,5666816385091702650,6666914976089367506,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1645 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 39 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11582 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,352120170942128757,6545159595464682466,524288 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1990 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 25 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11610 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=34 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=6013486131 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,8521201452247971828,6923564102290645998,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1645 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 68 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11639 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=38 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=6021815067 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,2647870089285366075,15148492601943479869,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1644 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 41 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 11653 ===
+[2025-10-11T21:46:36+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=39 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=6024507604 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,6341318979060033385,1987267729531572380,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:36+03:00] environ: 1645 переменных
+[2025-10-11T21:46:36+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:36+03:00] fdinfo: 48 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 12745 ===
+[2025-10-11T21:46:36+03:00] cmdline: /snap/code/210/usr/share/code/code --no-sandbox --force-user-env
+[2025-10-11T21:46:36+03:00] environ: 103 переменных
+[2025-10-11T21:46:36+03:00] root: /
+[2025-10-11T21:46:36+03:00] fdinfo: 139 записей
+[2025-10-11T21:46:36+03:00] 
+[2025-10-11T21:46:36+03:00] === PID: 12747 ===
+[2025-10-11T21:46:37+03:00] cmdline: /snap/code/210/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox
+[2025-10-11T21:46:37+03:00] environ: 103 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 12 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12748 ===
+[2025-10-11T21:46:37+03:00] cmdline: /snap/code/210/usr/share/code/code --type=zygote --no-sandbox
+[2025-10-11T21:46:37+03:00] environ: 103 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 12 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12762 ===
+[2025-10-11T21:46:37+03:00] cmdline: /snap/code/210/usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/dima/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=768b9ed8-14d3-4a3e-a2db-25e060ccb63c&iid=768b9ed8-14d3-4a3e-a2db-25e060ccb63c&sid=768b9ed8-14d3-4a3e-a2db-25e060ccb63c --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.105.0 --annotation=lsb-release=Ubuntu 25.04 --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=37.6.0 --initial-client-fd=46 --shared-client-connection
+[2025-10-11T21:46:37+03:00] environ: 105 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12797 ===
+[2025-10-11T21:46:37+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=12762 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17121301317312525657,2552510128196578359,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-11T21:46:37+03:00] environ: 107 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 26 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12829 ===
+[2025-10-11T21:46:37+03:00] cmdline: /snap/code/210/usr/share/code/code --type=zygote --no-sandbox
+[2025-10-11T21:46:37+03:00] environ: 103 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 56 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12842 ===
+[2025-10-11T21:46:37+03:00] cmdline: /proc/self/exe --type=gpu-process --disable-gpu-sandbox --no-sandbox --crashpad-handler-pid=12762 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=3,i,17121301317312525657,2552510128196578359,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-11T21:46:37+03:00] environ: 109 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 36 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12880 ===
+[2025-10-11T21:46:37+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=12762 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17121301317312525657,2552510128196578359,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-11T21:46:37+03:00] environ: 99 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 45 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12881 ===
+[2025-10-11T21:46:37+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=12762 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17121301317312525657,2552510128196578359,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-11T21:46:37+03:00] environ: 100 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 48 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12906 ===
+[2025-10-11T21:46:37+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --crashpad-handler-pid=12762 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17121301317312525657,2552510128196578359,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-11T21:46:37+03:00] environ: 105 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 65 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12938 ===
+[2025-10-11T21:46:37+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=12762 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17121301317312525657,2552510128196578359,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-11T21:46:37+03:00] environ: 94 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 49 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 12981 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/bin/bash --init-file /snap/code/210/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+[2025-10-11T21:46:37+03:00] environ: 96 переменных
+[2025-10-11T21:46:37+03:00] root: /
+[2025-10-11T21:46:37+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 13 ===
+[2025-10-11T21:46:37+03:00] cmdline: 
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 14 ===
+[2025-10-11T21:46:37+03:00] cmdline: 
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 14848 ===
+[2025-10-11T21:46:37+03:00] cmdline: 
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 15 ===
+[2025-10-11T21:46:37+03:00] cmdline: 
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1515 ===
+[2025-10-11T21:46:37+03:00] cmdline: avahi-daemon: running [4540s.local]
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1516 ===
+[2025-10-11T21:46:37+03:00] cmdline: @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1520 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/libexec/gnome-remote-desktop-daemon --system
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1528 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 153 ===
+[2025-10-11T21:46:37+03:00] cmdline: 
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 154 ===
+[2025-10-11T21:46:37+03:00] cmdline: 
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1541 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/lib/snapd/snapd
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1542 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/libexec/accounts-daemon
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1543 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/libexec/switcheroo-control
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1548 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/lib/systemd/systemd-logind
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1550 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/lib/systemd/systemd-machined
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1551 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/sbin/thermald --systemd --dbus-enable --adaptive
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1554 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/libexec/udisks2/udisksd
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1558 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/sbin/virtlockd
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1572 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/sbin/virtlogd
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1588 ===
+[2025-10-11T21:46:37+03:00] cmdline: avahi-daemon: chroot helper
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 16 ===
+[2025-10-11T21:46:37+03:00] cmdline: 
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1620 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/sbin/rsyslogd -n -iNONE
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1646 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/sbin/NetworkManager --no-daemon
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 1647 ===
+[2025-10-11T21:46:37+03:00] cmdline: /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+[2025-10-11T21:46:37+03:00] root: 
+[2025-10-11T21:46:37+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:37+03:00] 
+[2025-10-11T21:46:37+03:00] === PID: 168 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 17 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 170 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 171 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 172 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1721 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/sbin/ModemManager
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 17459 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 175 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 177 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 17849 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 181 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18141 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/libexec/gnome-terminal-server
+[2025-10-11T21:46:38+03:00] environ: 52 переменных
+[2025-10-11T21:46:38+03:00] root: /
+[2025-10-11T21:46:38+03:00] fdinfo: 21 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18148 ===
+[2025-10-11T21:46:38+03:00] cmdline: bash
+[2025-10-11T21:46:38+03:00] environ: 54 переменных
+[2025-10-11T21:46:38+03:00] root: /
+[2025-10-11T21:46:38+03:00] fdinfo: 4 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 182 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18223 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 184 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1845 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18457 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18458 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1847 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/sbin/cupsd -l
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 185 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1850 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18828 ===
+[2025-10-11T21:46:38+03:00] cmdline: gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+[2025-10-11T21:46:38+03:00] environ: 55 переменных
+[2025-10-11T21:46:38+03:00] root: /
+[2025-10-11T21:46:38+03:00] fdinfo: 17 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 18922 ===
+[2025-10-11T21:46:38+03:00] cmdline: /snap/code/210/usr/share/code/code /snap/code/210/usr/share/code/resources/app/extensions/markdown-language-features/dist/serverWorkerMain --node-ipc --clientProcessId=12906
+[2025-10-11T21:46:38+03:00] environ: 112 переменных
+[2025-10-11T21:46:38+03:00] root: /
+[2025-10-11T21:46:38+03:00] fdinfo: 38 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1893 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/libexec/bluetooth/bluetoothd
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 19 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 19024 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 19073 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 191 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1911 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 19118 ===
+[2025-10-11T21:46:38+03:00] cmdline: /snap/code/210/usr/share/code/code /snap/code/210/usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=12906
+[2025-10-11T21:46:38+03:00] environ: 112 переменных
+[2025-10-11T21:46:38+03:00] root: /
+[2025-10-11T21:46:38+03:00] fdinfo: 39 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 192 ===
+[2025-10-11T21:46:38+03:00] cmdline: 
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1930 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/sbin/cups-browsed
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1933 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/sbin/cron -f -P
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1934 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/sbin/libvirtd --timeout 120
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:38+03:00] === PID: 1970 ===
+[2025-10-11T21:46:38+03:00] cmdline: /usr/sbin/gdm3
+[2025-10-11T21:46:38+03:00] root: 
+[2025-10-11T21:46:38+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:38+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 1973 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 1976 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 199 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 20 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 200 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2033 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2084 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/lib/libvirt/libvirt_leaseshelper
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2085 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/lib/libvirt/libvirt_leaseshelper
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 21 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2132 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/libexec/rtkit-daemon
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 22 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2258 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/libexec/colord
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 23 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2303 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/libexec/upowerd
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 24 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 25 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 26 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2636 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/libexec/power-profiles-daemon
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 265 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2659 ===
+[2025-10-11T21:46:39+03:00] cmdline: gdm-session-worker [pam/gdm-password]
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 266 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2670 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/lib/systemd/systemd --user
+[2025-10-11T21:46:39+03:00] environ: 0 переменных
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2671 ===
+[2025-10-11T21:46:39+03:00] cmdline: (sd-pam)
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2684 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/mpris-proxy
+[2025-10-11T21:46:39+03:00] environ: 19 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2685 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/pipewire
+[2025-10-11T21:46:39+03:00] environ: 22 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 78 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2686 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/pipewire -c filter-chain.conf
+[2025-10-11T21:46:39+03:00] environ: 19 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 15 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 26899 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2690 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/wireplumber
+[2025-10-11T21:46:39+03:00] environ: 20 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 63 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2691 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/pipewire-pulse
+[2025-10-11T21:46:39+03:00] environ: 22 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 42 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2692 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+[2025-10-11T21:46:39+03:00] environ: 23 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 488 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 2693 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+[2025-10-11T21:46:39+03:00] environ: 22 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 15 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 27 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:39+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 27030 ===
+[2025-10-11T21:46:39+03:00] cmdline: /usr/bin/eog /home/dima/Pictures/Screenshots/Screenshot From 2025-10-11 20-46-04.png
+[2025-10-11T21:46:39+03:00] environ: 58 переменных
+[2025-10-11T21:46:39+03:00] root: /
+[2025-10-11T21:46:39+03:00] fdinfo: 19 записей
+[2025-10-11T21:46:39+03:00] 
+[2025-10-11T21:46:39+03:00] === PID: 27149 ===
+[2025-10-11T21:46:39+03:00] cmdline: 
+[2025-10-11T21:46:39+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 27172 ===
+[2025-10-11T21:46:40+03:00] cmdline: 
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2741 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/xdg-document-portal
+[2025-10-11T21:46:40+03:00] environ: 19 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 15 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2745 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/xdg-permission-store
+[2025-10-11T21:46:40+03:00] environ: 19 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 7 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2752 ===
+[2025-10-11T21:46:40+03:00] cmdline: fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 27744 ===
+[2025-10-11T21:46:40+03:00] cmdline: 
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2784 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+[2025-10-11T21:46:40+03:00] environ: 29 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2801 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gnome-session-binary --session=ubuntu
+[2025-10-11T21:46:40+03:00] environ: 40 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 28627 ===
+[2025-10-11T21:46:40+03:00] cmdline: 
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2882 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+[2025-10-11T21:46:40+03:00] environ: 46 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2886 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gnome-session-ctl --monitor
+[2025-10-11T21:46:40+03:00] environ: 44 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 28939 ===
+[2025-10-11T21:46:40+03:00] cmdline: 
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 29 ===
+[2025-10-11T21:46:40+03:00] cmdline: 
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2903 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gvfsd
+[2025-10-11T21:46:40+03:00] environ: 43 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 15 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2915 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+[2025-10-11T21:46:40+03:00] environ: 43 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2918 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+[2025-10-11T21:46:40+03:00] environ: 44 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 21 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2948 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/at-spi-bus-launcher --launch-immediately
+[2025-10-11T21:46:40+03:00] environ: 51 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 11 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2956 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/bin/gnome-shell
+[2025-10-11T21:46:40+03:00] environ: 49 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 150 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2962 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+[2025-10-11T21:46:40+03:00] environ: 51 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 83 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 2995 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/at-spi2-registryd --use-gnome-session
+[2025-10-11T21:46:40+03:00] environ: 51 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3 ===
+[2025-10-11T21:46:40+03:00] cmdline: 
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 30 ===
+[2025-10-11T21:46:40+03:00] cmdline: 
+[2025-10-11T21:46:40+03:00] root: 
+[2025-10-11T21:46:40+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3011 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gnome-shell-calendar-server
+[2025-10-11T21:46:40+03:00] environ: 54 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3018 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/evolution-source-registry
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3031 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+[2025-10-11T21:46:40+03:00] environ: 54 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3036 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/bin/ibus-daemon --panel disable
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 18 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3039 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gsd-a11y-settings
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3041 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gsd-color
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 15 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3045 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gsd-datetime
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3050 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/goa-daemon
+[2025-10-11T21:46:40+03:00] environ: 54 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 12 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3051 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gsd-housekeeping
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 12 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3052 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gsd-keyboard
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 15 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3055 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gsd-media-keys
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:40+03:00] fdinfo: 20 записей
+[2025-10-11T21:46:40+03:00] 
+[2025-10-11T21:46:40+03:00] === PID: 3059 ===
+[2025-10-11T21:46:40+03:00] cmdline: /usr/libexec/gsd-power
+[2025-10-11T21:46:40+03:00] environ: 52 переменных
+[2025-10-11T21:46:40+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 21 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3062 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-print-notifications
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3063 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-rfkill
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3067 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-screensaver-proxy
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 7 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3070 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-sharing
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3073 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-smartcard
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3075 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-disk-utility-notify
+[2025-10-11T21:46:41+03:00] environ: 55 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3097 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/evolution-data-server/evolution-alarm-notify
+[2025-10-11T21:46:41+03:00] environ: 55 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 16 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 31 ===
+[2025-10-11T21:46:41+03:00] cmdline: 
+[2025-10-11T21:46:41+03:00] root: 
+[2025-10-11T21:46:41+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3158 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-sound
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3159 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-wacom
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 13 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3189 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/goa-identity-service
+[2025-10-11T21:46:41+03:00] environ: 54 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 32 ===
+[2025-10-11T21:46:41+03:00] cmdline: 
+[2025-10-11T21:46:41+03:00] root: 
+[2025-10-11T21:46:41+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 321 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/lib/systemd/systemd-journald
+[2025-10-11T21:46:41+03:00] root: 
+[2025-10-11T21:46:41+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3212 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gvfs-udisks2-volume-monitor
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 14 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3238 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gsd-printer
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3250 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/evolution-calendar-factory
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 13 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3255 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/ibus-memconf
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3257 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/ibus-extension-gtk3
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 15 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3262 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/ibus-portal
+[2025-10-11T21:46:41+03:00] environ: 54 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3280 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gvfs-goa-volume-monitor
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 7 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3287 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gvfs-mtp-volume-monitor
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3292 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/evolution-addressbook-factory
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 13 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3299 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gvfs-afc-volume-monitor
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 33 ===
+[2025-10-11T21:46:41+03:00] cmdline: 
+[2025-10-11T21:46:41+03:00] root: 
+[2025-10-11T21:46:41+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3311 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/gvfs-gphoto2-volume-monitor
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3334 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/ibus-engine-simple
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3357 ===
+[2025-10-11T21:46:41+03:00] cmdline: /usr/libexec/dconf-service
+[2025-10-11T21:46:41+03:00] environ: 52 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 7 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3358 ===
+[2025-10-11T21:46:41+03:00] cmdline: /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+[2025-10-11T21:46:41+03:00] environ: 111 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 3 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 34100 ===
+[2025-10-11T21:46:41+03:00] cmdline: /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=11083 --enable-crash-reporter=b72952cd-8b79-45ca-88a0-abe5aaeda5ca, --origin-trial-disabled-features=CanvasTextNg --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=100 --time-ticks-at-unix-epoch=-1760187175902243 --launch-time-ticks=20618970289 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,8736266542819441588,10944649771319314534,2097152 --field-trial-handle=3,i,6147807326965955094,17458601015555476647,262144 --disable-features=EyeDropper --variations-seed-version=20251011-010036.166000
+[2025-10-11T21:46:41+03:00] environ: 1642 переменных
+[2025-10-11T21:46:41+03:00] root: /proc/11093/fdinfo
+[2025-10-11T21:46:41+03:00] fdinfo: 32 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 3415 ===
+[2025-10-11T21:46:41+03:00] cmdline: /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+[2025-10-11T21:46:41+03:00] environ: 111 переменных
+[2025-10-11T21:46:41+03:00] root: /
+[2025-10-11T21:46:41+03:00] fdinfo: 14 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 34170 ===
+[2025-10-11T21:46:41+03:00] cmdline: 
+[2025-10-11T21:46:41+03:00] root: 
+[2025-10-11T21:46:41+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:41+03:00] 
+[2025-10-11T21:46:41+03:00] === PID: 342 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/lib/systemd/systemd-oomd
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3433 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/gvfsd-trash --spawner :1.22 /org/gtk/gvfs/exec_spaw/0
+[2025-10-11T21:46:42+03:00] environ: 43 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 14 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3462 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/xdg-desktop-portal
+[2025-10-11T21:46:42+03:00] environ: 52 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 32 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3464 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/localsearch-3
+[2025-10-11T21:46:42+03:00] environ: 52 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 55 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3477 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/xdg-desktop-portal-gnome
+[2025-10-11T21:46:42+03:00] environ: 52 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 13 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3499 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+[2025-10-11T21:46:42+03:00] environ: 54 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 35 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3577 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/xdg-desktop-portal-gtk
+[2025-10-11T21:46:42+03:00] environ: 52 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 16 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3583 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/gvfsd-metadata
+[2025-10-11T21:46:42+03:00] environ: 52 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 36 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3692 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.X4GCE3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+[2025-10-11T21:46:42+03:00] environ: 55 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 26 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 37 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3707 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/gsd-xsettings
+[2025-10-11T21:46:42+03:00] environ: 52 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 19 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3726 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/mutter-x11-frames
+[2025-10-11T21:46:42+03:00] environ: 54 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 13 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3752 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/libexec/ibus-x11
+[2025-10-11T21:46:42+03:00] environ: 52 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 38 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 380 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/lib/systemd/systemd-timesyncd
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 388 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/lib/systemd/systemd-resolved
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 39 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 390 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/lib/systemd/systemd-udevd
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 3959 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/bin/update-notifier
+[2025-10-11T21:46:42+03:00] environ: 55 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 17 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 397 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 4 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 41 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 42 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 43 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 44 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 4471 ===
+[2025-10-11T21:46:42+03:00] cmdline: /usr/bin/snap userd
+[2025-10-11T21:46:42+03:00] environ: 54 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 6 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 45 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 46 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 49 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 49924 ===
+[2025-10-11T21:46:42+03:00] cmdline: /bin/bash ./monitor_proc2.sh files
+[2025-10-11T21:46:42+03:00] environ: 95 переменных
+[2025-10-11T21:46:42+03:00] root: /
+[2025-10-11T21:46:42+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 5 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 50 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:42+03:00] root: 
+[2025-10-11T21:46:42+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:42+03:00] 
+[2025-10-11T21:46:42+03:00] === PID: 51 ===
+[2025-10-11T21:46:42+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 52 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 53 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 54 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 55 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 56 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 59 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 6 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 60 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 607 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 61 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 62 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 63 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 639 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 65 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 66 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 668 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 67 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 69 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 7 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 70 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 71 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 72 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 7361 ===
+[2025-10-11T21:46:43+03:00] cmdline: /usr/libexec/fwupd/fwupd
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 75 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 76 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 8 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 8016 ===
+[2025-10-11T21:46:43+03:00] cmdline: /usr/libexec/gvfsd-http --spawner :1.22 /org/gtk/gvfs/exec_spaw/1
+[2025-10-11T21:46:43+03:00] environ: 43 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 7 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 83 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 86 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 8720 ===
+[2025-10-11T21:46:43+03:00] cmdline: /usr/libexec/gvfsd-recent --spawner :1.22 /org/gtk/gvfs/exec_spaw/2
+[2025-10-11T21:46:43+03:00] environ: 43 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 8 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 8729 ===
+[2025-10-11T21:46:43+03:00] cmdline: /usr/libexec/gvfsd-network --spawner :1.22 /org/gtk/gvfs/exec_spaw/3
+[2025-10-11T21:46:43+03:00] environ: 43 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 8738 ===
+[2025-10-11T21:46:43+03:00] cmdline: /usr/libexec/gvfsd-dnssd --spawner :1.22 /org/gtk/gvfs/exec_spaw/4
+[2025-10-11T21:46:43+03:00] environ: 43 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 9 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 8744 ===
+[2025-10-11T21:46:43+03:00] cmdline: /usr/libexec/gvfsd-wsdd --spawner :1.22 /org/gtk/gvfs/exec_spaw/5
+[2025-10-11T21:46:43+03:00] environ: 43 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 12 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 8749 ===
+[2025-10-11T21:46:43+03:00] cmdline: python3 /usr/bin/wsdd --no-host --discovery --listen /run/user/1000/gvfsd/wsdd
+[2025-10-11T21:46:43+03:00] environ: 44 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 18 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 9126 ===
+[2025-10-11T21:46:43+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox
+[2025-10-11T21:46:43+03:00] environ: 123 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 208 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 918 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:43+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 9186 ===
+[2025-10-11T21:46:43+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/crashhelper 9126 9 /tmp/ 10 12
+[2025-10-11T21:46:43+03:00] environ: 125 переменных
+[2025-10-11T21:46:43+03:00] root: /
+[2025-10-11T21:46:43+03:00] fdinfo: 26 записей
+[2025-10-11T21:46:43+03:00] 
+[2025-10-11T21:46:43+03:00] === PID: 923 ===
+[2025-10-11T21:46:43+03:00] cmdline: 
+[2025-10-11T21:46:43+03:00] root: 
+[2025-10-11T21:46:44+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 924 ===
+[2025-10-11T21:46:44+03:00] cmdline: 
+[2025-10-11T21:46:44+03:00] root: 
+[2025-10-11T21:46:44+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 925 ===
+[2025-10-11T21:46:44+03:00] cmdline: 
+[2025-10-11T21:46:44+03:00] root: 
+[2025-10-11T21:46:44+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 926 ===
+[2025-10-11T21:46:44+03:00] cmdline: 
+[2025-10-11T21:46:44+03:00] root: 
+[2025-10-11T21:46:44+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9269 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId {b2b8eae3-6b9d-4402-8730-42dfc7279f0b} -parentPid 9126 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 1 forkserver
+[2025-10-11T21:46:44+03:00] environ: 139 переменных
+[2025-10-11T21:46:44+03:00] root: /
+[2025-10-11T21:46:44+03:00] fdinfo: 10 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9274 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -parentBuildID 20251003234612 -prefsHandle 0:35628 -prefMapHandle 1:273844 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {bb82ebaa-e92e-4a8b-a912-842a07498bee} -parentPid 9126 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/6966/usr/lib/firefox/browser 2 socket
+[2025-10-11T21:46:44+03:00] environ: 163 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9275/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 28 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9286 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:35818 -prefMapHandle 1:273844 -jsInitHandle 2:223368 -parentBuildID 20251003234612 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ee2f5184-0b84-40c6-9209-adb56f296a33} -parentPid 9126 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 3 tab
+[2025-10-11T21:46:44+03:00] environ: 189 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9287/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 44 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9296 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -parentBuildID 20251003234612 -prefsHandle 0:35818 -prefMapHandle 1:273844 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {42f7a388-8ae0-4301-9c5f-aa8b1ae082c0} -parentPid 9126 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/6966/usr/lib/firefox/browser 4 rdd
+[2025-10-11T21:46:44+03:00] environ: 142 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9297/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 26 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9619 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:45792 -prefMapHandle 1:273844 -jsInitHandle 2:223368 -parentBuildID 20251003234612 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {cb29cd64-3235-408a-8b6f-a37e413a60d6} -parentPid 9126 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 5 tab
+[2025-10-11T21:46:44+03:00] environ: 189 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9621/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 48 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9796 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -parentBuildID 20251003234612 -sandboxingKind 0 -prefsHandle 0:46719 -prefMapHandle 1:273844 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {e74d3c5d-07d1-4525-aab1-968b6b219b29} -parentPid 9126 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/6966/usr/lib/firefox/browser 6 utility
+[2025-10-11T21:46:44+03:00] environ: 144 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9797/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 27 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9804 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:43200 -prefMapHandle 1:273844 -jsInitHandle 2:223368 -parentBuildID 20251003234612 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {e7cf781d-0fb1-41dc-80e0-11b60e39a134} -parentPid 9126 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 7 tab
+[2025-10-11T21:46:44+03:00] environ: 189 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9805/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 45 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9809 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:43200 -prefMapHandle 1:273844 -jsInitHandle 2:223368 -parentBuildID 20251003234612 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {afc1ce41-c4bd-4499-b836-c32fd744f5b3} -parentPid 9126 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 8 tab
+[2025-10-11T21:46:44+03:00] environ: 189 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9811/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 44 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 99 ===
+[2025-10-11T21:46:44+03:00] cmdline: 
+[2025-10-11T21:46:44+03:00] root: 
+[2025-10-11T21:46:44+03:00] fdinfo: 0 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] === PID: 9985 ===
+[2025-10-11T21:46:44+03:00] cmdline: /snap/firefox/6966/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:43257 -prefMapHandle 1:273844 -jsInitHandle 2:223368 -parentBuildID 20251003234612 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {03b962ba-43c7-48f2-8444-e963cc3b0969} -parentPid 9126 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/6966/usr/lib/firefox/omni.ja -appomni /snap/firefox/6966/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/6966/usr/lib/firefox/browser 9 tab
+[2025-10-11T21:46:44+03:00] environ: 189 переменных
+[2025-10-11T21:46:44+03:00] root: /proc/9986/fdinfo
+[2025-10-11T21:46:44+03:00] fdinfo: 44 записей
+[2025-10-11T21:46:44+03:00] 
+[2025-10-11T21:46:44+03:00] Готово.

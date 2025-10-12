@@ -1,0 +1,9 @@
+[Sun Oct 12 03:46:56 PM MSK 2025] Скрипт запущен. Группа: files
+PID      cmdline              environ_vars                   root                           fdinfo_count   
+-----------------------------------------------------------------------------------------------------------
+18244                         0                              /                              0              
+18258    sudo ./proc_group_monitor.sh 94                             /                              16             
+18259    sudo ./proc_group_monitor.sh 94                             /                              17             
+18260    /bin/bash ./proc_group_monit 27                             /                              5              
+
+[Sun Oct 12 03:46:57 PM MSK 2025] Скрипт завершён. Новые процессы записаны.

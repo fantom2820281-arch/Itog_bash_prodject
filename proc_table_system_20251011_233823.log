@@ -1,0 +1,296 @@
+PID      Name                 cwd                            root                           fd_count       
+-----------------------------------------------------------------------------------------------------------
+1        systemd                                                                            0              
+10       kworker/0:0H-events_highpri                                                               0              
+100      kworker/0:1H-kblockd                                                               0              
+10137    Isolated Servic      /proc/10139/fdinfo             /proc/10139/fdinfo             43             
+10304    telegram-deskto      /home/dima/snap/telegram-des   /                              73             
+11073    chrome               /home/dima                     /                              314            
+11080    cat                  /home/dima                     /                              6              
+11081    cat                  /home/dima                     /                              6              
+11083    chrome_crashpad      /home/dima                     /                              8              
+11085    chrome_crashpad      /home/dima                     /                              6              
+11091    chrome               /home/dima                     /                              13             
+11092    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             13             
+11094    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             14             
+11123    chrome               /home/dima                     /                              120            
+11125    chrome               /home/dima                     /                              51             
+11136    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             46             
+11258    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             23             
+11270    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             42             
+11326    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             66             
+11394    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             67             
+11427    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             41             
+11535    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             39             
+11582    chrome               /home/dima                     /                              25             
+11610    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             72             
+11639    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             41             
+11653    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             46             
+12745    code                 /home/dima                     /                              139            
+12747    code                 /home/dima                     /                              12             
+12748    code                 /home/dima                     /                              12             
+12762    chrome_crashpad      /home/dima                     /                              6              
+12797    code                 /home/dima                     /                              26             
+12829    code                 /home/dima                     /                              56             
+12842    code                 /home/dima                     /                              37             
+12880    code                 /home/dima                     /                              45             
+12881    code                 /home/dima                     /                              48             
+12906    code                 /home/dima                     /                              65             
+12938    code                 /home/dima                     /                              49             
+12981    bash                 /home/dima/probe_git           /                              8              
+13       kworker/R-mm_percpu_wq                                                               0              
+14       rcu_tasks_kthread                                                                  0              
+15       rcu_tasks_rude_kthread                                                               0              
+1515     avahi-daemon                                                                       0              
+1516     dbus-daemon                                                                        0              
+1520     gnome-remote-de                                                                    0              
+1528     polkitd                                                                            0              
+153      kworker/2:1H-i915_cleanup                                                               0              
+154      kworker/1:1H-i915_cleanup                                                               0              
+1541     snapd                                                                              0              
+1542     accounts-daemon                                                                    0              
+1543     switcheroo-cont                                                                    0              
+1548     systemd-logind                                                                     0              
+1550     systemd-machine                                                                    0              
+1551     thermald                                                                           0              
+1554     udisksd                                                                            0              
+1558     virtlockd                                                                          0              
+1572     virtlogd                                                                           0              
+1588     avahi-daemon                                                                       0              
+16       rcu_tasks_trace_kthread                                                               0              
+1620     rsyslogd                                                                           0              
+1646     NetworkManager                                                                     0              
+1647     wpa_supplicant                                                                     0              
+168      scsi_eh_0                                                                          0              
+17       ksoftirqd/0                                                                        0              
+170      kworker/R-scsi_tmf_0                                                               0              
+171      scsi_eh_1                                                                          0              
+172      kworker/R-scsi_tmf_1                                                               0              
+1721     ModemManager                                                                       0              
+175      scsi_eh_2                                                                          0              
+177      kworker/R-scsi_tmf_2                                                               0              
+18       rcu_preempt                                                                        0              
+181      kworker/R-sdhci                                                                    0              
+18141    gnome-terminal-      /home/dima                     /                              21             
+18148    bash                 /home/dima/probe_git           /                              4              
+182      irq/18-mmc0                                                                        0              
+18223    kworker/u17:1+i915_flip                                                               0              
+184      scsi_eh_3                                                                          0              
+1845     hwrng                                                                              0              
+18457    jbd2/sdb-8                                                                         0              
+18458    kworker/R-ext4-rsv-conversion                                                               0              
+1847     cupsd                                                                              0              
+185      kworker/R-scsi_tmf_3                                                               0              
+1850     unattended-upgr                                                                    0              
+18828    gjs                  /home/dima                     /                              17             
+18922    code                 /home/dima/probe_git           /                              38             
+1893     bluetoothd                                                                         0              
+19       rcu_exp_par_gp_kthread_worker/0                                                               0              
+19073    ssh-agent                                                                          0              
+191      scsi_eh_4                                                                          0              
+1911     krfcommd                                                                           0              
+19118    code                 /home/dima/probe_git           /                              39             
+192      kworker/R-scsi_tmf_4                                                               0              
+1930     cups-browsed                                                                       0              
+1933     cron                                                                               0              
+1934     libvirtd                                                                           0              
+1970     gdm3                                                                               0              
+1973     kworker/R-iprt-VBoxWQueue                                                               0              
+1976     iprt-VBoxTscThread                                                                 0              
+199      scsi_eh_5                                                                          0              
+2        kthreadd                                                                           0              
+20       rcu_exp_gp_kthread_worker                                                               0              
+200      kworker/R-scsi_tmf_5                                                               0              
+2033     psimon                                                                             0              
+2084     dnsmasq                                                                            0              
+2085     dnsmasq                                                                            0              
+21       migration/0                                                                        0              
+2132     rtkit-daemon                                                                       0              
+22       idle_inject/0                                                                      0              
+2258     colord                                                                             0              
+23       cpuhp/0                                                                            0              
+2303     upowerd                                                                            0              
+24       cpuhp/2                                                                            0              
+25       idle_inject/2                                                                      0              
+26       migration/2                                                                        0              
+2636     power-profiles-                                                                    0              
+265      jbd2/sda2-8                                                                        0              
+2659     gdm-session-wor                                                                    0              
+266      kworker/R-ext4-rsv-conversion                                                               0              
+2670     systemd                                                                            142            
+2671     (sd-pam)                                                                           0              
+2684     mpris-proxy          /home/dima                     /                              6              
+2685     pipewire             /home/dima                     /                              80             
+2686     pipewire             /home/dima                     /                              15             
+2690     wireplumber          /home/dima                     /                              63             
+2691     pipewire-pulse       /home/dima                     /                              46             
+2692     dbus-daemon          /home/dima                     /                              488            
+2693     gnome-keyring-d      /home/dima                     /                              15             
+27       ksoftirqd/2                                                                        0              
+2741     xdg-document-po      /home/dima                     /                              15             
+2745     xdg-permission-      /home/dima                     /                              7              
+2752     fusermount3                                                                        0              
+2784     gdm-wayland-ses      /home/dima                     /                              9              
+2801     gnome-session-b      /home/dima                     /                              8              
+28627    kworker/2:2-events                                                                 0              
+2882     gcr-ssh-agent        /home/dima                     /                              6              
+2886     gnome-session-c      /home/dima                     /                              6              
+29       kworker/2:0H-events_highpri                                                               0              
+2903     gvfsd                /home/dima                     /                              15             
+2915     gvfsd-fuse           /                              /                              10             
+2918     gnome-session-b      /home/dima                     /                              21             
+2948     at-spi-bus-laun      /home/dima                     /                              11             
+2956     gnome-shell          /home/dima                     /                              149            
+2962     dbus-daemon          /home/dima                     /                              83             
+2995     at-spi2-registr      /home/dima                     /                              10             
+3        pool_workqueue_release                                                               0              
+30       cpuhp/1                                                                            0              
+3011     gnome-shell-cal      /home/dima                     /                              10             
+3018     evolution-sourc      /home/dima                     /                              9              
+3031     gjs                  /home/dima                     /                              8              
+3036     ibus-daemon          /home/dima                     /                              18             
+3039     gsd-a11y-settin      /home/dima                     /                              8              
+3041     gsd-color            /home/dima                     /                              15             
+3045     gsd-datetime         /home/dima                     /                              8              
+3050     goa-daemon           /home/dima                     /                              12             
+3051     gsd-housekeepin      /home/dima                     /                              12             
+3052     gsd-keyboard         /home/dima                     /                              15             
+3055     gsd-media-keys       /home/dima                     /                              20             
+3059     gsd-power            /home/dima                     /                              21             
+3062     gsd-print-notif      /home/dima                     /                              9              
+3063     gsd-rfkill           /home/dima                     /                              10             
+3067     gsd-screensaver      /home/dima                     /                              7              
+3070     gsd-sharing          /home/dima                     /                              9              
+3073     gsd-smartcard        /home/dima                     /                              8              
+3075     gsd-disk-utilit      /home/dima                     /                              8              
+3097     evolution-alarm      /home/dima                     /                              16             
+31       idle_inject/1                                                                      0              
+3158     gsd-sound            /home/dima                     /                              9              
+3159     gsd-wacom            /home/dima                     /                              13             
+3189     goa-identity-se      /home/dima                     /                              8              
+32       migration/1                                                                        0              
+321      systemd-journal                                                                    0              
+3212     gvfs-udisks2-vo      /home/dima                     /                              14             
+3238     gsd-printer          /home/dima                     /                              8              
+3250     evolution-calen      /home/dima                     /                              13             
+3255     ibus-memconf         /home/dima                     /                              9              
+3257     ibus-extension-      /home/dima                     /                              15             
+3262     ibus-portal          /home/dima                     /                              9              
+3280     gvfs-goa-volume      /home/dima                     /                              7              
+3287     gvfs-mtp-volume      /home/dima                     /                              8              
+3292     evolution-addre      /home/dima                     /                              13             
+3299     gvfs-afc-volume      /home/dima                     /                              8              
+33       ksoftirqd/1                                                                        0              
+3311     gvfs-gphoto2-vo      /home/dima                     /                              8              
+3334     ibus-engine-sim      /home/dima                     /                              9              
+3357     dconf-service        /home/dima                     /                              7              
+3358     snapd-desktop-i      /var/snap/snapd-desktop-inte   /                              3              
+3415     snapd-desktop-i      /var/snap/snapd-desktop-inte   /                              14             
+342      systemd-oomd                                                                       0              
+3433     gvfsd-trash          /home/dima                     /                              14             
+3462     xdg-desktop-por      /home/dima                     /                              32             
+3464     localsearch-3        /home/dima                     /                              55             
+3477     xdg-desktop-por      /home/dima                     /                              13             
+3499     gjs                  /home/dima                     /                              8              
+35       kworker/1:0H-events_highpri                                                               0              
+3577     xdg-desktop-por      /home/dima                     /                              16             
+3583     gvfsd-metadata       /home/dima                     /                              10             
+36       cpuhp/3                                                                            0              
+3692     Xwayland             /home/dima                     /                              26             
+37       idle_inject/3                                                                      0              
+3707     gsd-xsettings        /home/dima                     /                              19             
+3726     mutter-x11-fram      /home/dima                     /                              13             
+3752     ibus-x11             /home/dima                     /                              10             
+38       migration/3                                                                        0              
+380      systemd-timesyn                                                                    0              
+388      systemd-resolve                                                                    0              
+39       ksoftirqd/3                                                                        0              
+390      systemd-udevd                                                                      0              
+3959     update-notifier      /home/dima                     /                              17             
+397      psimon                                                                             0              
+4        kworker/R-rcu_gp                                                                   0              
+41       kworker/3:0H-events_highpri                                                               0              
+42       kdevtmpfs                                                                          0              
+43       kworker/R-inet_frag_wq                                                               0              
+44       kauditd                                                                            0              
+4471     snap                 /home/dima                     /                              6              
+45       khungtaskd                                                                         0              
+46       oom_reaper                                                                         0              
+49       kworker/R-writeback                                                                0              
+5        kworker/R-sync_wq                                                                  0              
+50       kcompactd0                                                                         0              
+51       ksmd                                                                               0              
+52       khugepaged                                                                         0              
+53       kworker/R-kintegrityd                                                               0              
+54       kworker/R-kblockd                                                                  0              
+54933    kworker/u16:3-events_unbound                                                               0              
+55       kworker/R-blkcg_punt_bio                                                               0              
+55251    kworker/0:0-events                                                                 0              
+55387    kworker/3:2-events                                                                 0              
+55404    kworker/1:1-events                                                                 0              
+55472    Isolated Web Co      /proc/55474/fdinfo             /proc/55474/fdinfo             44             
+55479    Isolated Web Co      /proc/55480/fdinfo             /proc/55480/fdinfo             44             
+55773    Isolated Web Co      /proc/55774/fdinfo             /proc/55774/fdinfo             44             
+55787    Isolated Web Co      /proc/55788/fdinfo             /proc/55788/fdinfo             44             
+55789    Web Content          /proc/55796/fdinfo             /proc/55796/fdinfo             43             
+55864    Web Content          /proc/55866/fdinfo             /proc/55866/fdinfo             43             
+56       irq/9-acpi                                                                         0              
+56553    Web Content          /proc/56554/fdinfo             /proc/56554/fdinfo             43             
+56788    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             55             
+56799    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             41             
+56816    chrome               /proc/11093/fdinfo             /proc/11093/fdinfo             32             
+56880    kworker/u16:1-events_unbound                                                               0              
+57969    kworker/u16:4-kvfree_rcu_reclaim                                                               0              
+59       kworker/R-tpm_dev_wq                                                               0              
+6        kworker/R-kvfree_rcu_reclaim                                                               0              
+60       kworker/R-ata_sff                                                                  0              
+607      kworker/R-kmemstick                                                                0              
+61       kworker/R-md                                                                       0              
+62       kworker/R-md_bitmap                                                                0              
+63       kworker/R-edac-poller                                                               0              
+639      irq/31-mei_me                                                                      0              
+65       kworker/R-devfreq_wq                                                               0              
+66       watchdogd                                                                          0              
+66758    kworker/0:3                                                                        0              
+668      kworker/R-cfg80211                                                                 0              
+66917    eog                  /home/dima                     /                              19             
+67       kworker/3:1H-i915_cleanup                                                               0              
+67067    kworker/2:1                                                                        0              
+67152    kworker/u16:2-events_unbound                                                               0              
+67398    kworker/1:0                                                                        0              
+69       kswapd0                                                                            0              
+69187    kworker/3:0                                                                        0              
+7        kworker/R-slub_flushwq                                                               0              
+70       ecryptfs-kthread                                                                   0              
+71       kworker/R-kthrotld                                                                 0              
+72       kworker/R-acpi_thermal_pm                                                               0              
+7361     fwupd                                                                              0              
+75       kworker/R-mld                                                                      0              
+76       kworker/R-ipv6_addrconf                                                               0              
+8        kworker/R-netns                                                                    0              
+8016     gvfsd-http           /home/dima                     /                              7              
+83       kworker/R-kstrp                                                                    0              
+86       kworker/u17:0-hci0                                                                 0              
+8720     gvfsd-recent         /home/dima                     /                              8              
+8729     gvfsd-network        /home/dima                     /                              10             
+8738     gvfsd-dnssd          /home/dima                     /                              9              
+8744     gvfsd-wsdd           /home/dima                     /                              12             
+8749     python3              /home/dima                     /                              18             
+9126     firefox              /home/dima                     /                              259            
+918      kworker/R-ttm                                                                      0              
+9186     crashhelper          /home/dima                     /                              33             
+923      card1-crtc0                                                                        0              
+924      card1-crtc1                                                                        0              
+925      card1-crtc2                                                                        0              
+926      kworker/R-cryptd                                                                   0              
+9269     forkserver           /home/dima                     /                              10             
+9274     Socket Process       /proc/9275/fdinfo              /proc/9275/fdinfo              28             
+9286     Privileged Cont      /proc/9287/fdinfo              /proc/9287/fdinfo              44             
+9296     RDD Process          /proc/9297/fdinfo              /proc/9297/fdinfo              38             
+93250    proc_monitor.sh      /home/dima/probe_git           /                              9              
+9619     WebExtensions        /proc/9621/fdinfo              /proc/9621/fdinfo              48             
+9796     Utility Process      /proc/9797/fdinfo              /proc/9797/fdinfo              27             
+9804     Isolated Web Co      /proc/9805/fdinfo              /proc/9805/fdinfo              45             
+9809     Isolated Web Co      /proc/9811/fdinfo              /proc/9811/fdinfo              44             
+99       kworker/R-charger_manager                                                               0              
+9985     Isolated Web Co      /proc/9986/fdinfo              /proc/9986/fdinfo              55             

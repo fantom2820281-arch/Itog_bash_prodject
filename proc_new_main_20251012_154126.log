@@ -1,0 +1,269 @@
+[Sun Oct 12 03:41:26 PM MSK 2025] Скрипт запущен. Группа: main
+PID      Name                 cmdline                        cwd                            environ_vars   
+-----------------------------------------------------------------------------------------------------------
+1        systemd              /sbin/init splash              /                              9              
+10       kworker/0:0H-events_highpri                                /                              0              
+124      kworker/3:1H-i915_cleanup                                /                              0              
+128      kworker/1:1H-i915_cleanup                                /                              0              
+13       kworker/R-mm_percpu_wq                                /                              0              
+14       rcu_tasks_kthread                                   /                              0              
+15       rcu_tasks_rude_kthread                                /                              0              
+1526     avahi-daemon         avahi-daemon: running [4540s   /etc/avahi                     411            
+1527     bluetoothd           /usr/libexec/bluetooth/bluet   /                              11             
+1528     dbus-daemon          @dbus-daemon --system --addr   /                              15             
+1533     gnome-remote-de      /usr/libexec/gnome-remote-de   /                              10             
+1537     polkitd              /usr/lib/polkit-1/polkitd --   /                              10             
+1546     snapd                /usr/lib/snapd/snapd           /                              14             
+1553     accounts-daemon      /usr/libexec/accounts-daemon   /                              12             
+1556     switcheroo-cont      /usr/libexec/switcheroo-cont   /                              8              
+1559     systemd-logind       /usr/lib/systemd/systemd-log   /                              14             
+1560     systemd-machine      /usr/lib/systemd/systemd-mac   /                              11             
+1562     thermald             /usr/sbin/thermald --systemd   /                              8              
+1566     udisksd              /usr/libexec/udisks2/udisksd   /                              8              
+1569     virtlockd            /usr/sbin/virtlockd            /                              13             
+1581     virtlogd             /usr/sbin/virtlogd             /                              13             
+16       rcu_tasks_trace_kthread                                /                              0              
+1606     avahi-daemon         avahi-daemon: chroot helper    /                              419            
+1652     NetworkManager       /usr/sbin/NetworkManager --n   /                              8              
+1661     wpa_supplicant       /usr/sbin/wpa_supplicant -u    /                              9              
+1662     rsyslogd             /usr/sbin/rsyslogd -n -iNONE   /                              12             
+1680     krfcommd                                            /                              0              
+17       ksoftirqd/0                                         /                              0              
+1727     ModemManager         /usr/sbin/ModemManager         /                              11             
+18       rcu_preempt                                         /                              0              
+183      kworker/R-sdhci                                     /                              0              
+184      irq/18-mmc0                                         /                              0              
+1853     hwrng                                               /                              0              
+1855     cupsd                /usr/sbin/cupsd -l             /                              14             
+1858     unattended-upgr      /usr/bin/python3 /usr/share/   /                              8              
+19       rcu_exp_par_gp_kthread_worker/0                                /                              0              
+1906     cups-browsed         /usr/sbin/cups-browsed         /                              10             
+1909     cron                 /usr/sbin/cron -f -P           /var/spool/cron                8              
+1910     libvirtd             /usr/sbin/libvirtd --timeout   /                              13             
+1946     kworker/R-iprt-VBoxWQueue                                /                              0              
+1948     iprt-VBoxTscThread                                  /                              0              
+1951     gdm3                 /usr/sbin/gdm3                 /                              8              
+2        kthreadd                                            /                              0              
+20       rcu_exp_gp_kthread_worker                                /                              0              
+202      scsi_eh_0                                           /                              0              
+203      kworker/R-scsi_tmf_0                                /                              0              
+205      scsi_eh_1                                           /                              0              
+207      kworker/R-scsi_tmf_1                                /                              0              
+2083     dnsmasq              /usr/sbin/dnsmasq --conf-fil   /                              1              
+2084     dnsmasq              /usr/sbin/dnsmasq --conf-fil   /                              1              
+209      scsi_eh_2                                           /                              0              
+21       migration/0                                         /                              0              
+210      kworker/R-scsi_tmf_2                                /                              0              
+211      scsi_eh_3                                           /                              0              
+212      kworker/R-scsi_tmf_3                                /                              0              
+2128     rtkit-daemon         /usr/libexec/rtkit-daemon      /proc                          9              
+213      scsi_eh_4                                           /                              0              
+214      kworker/R-scsi_tmf_4                                /                              0              
+215      scsi_eh_5                                           /                              0              
+216      kworker/R-scsi_tmf_5                                /                              0              
+22       idle_inject/0                                       /                              0              
+2255     colord               /usr/libexec/colord            /                              13             
+2296     upowerd              /usr/libexec/upowerd           /                              9              
+23       cpuhp/0                                             /                              0              
+24       cpuhp/2                                             /                              0              
+25       idle_inject/2                                       /                              0              
+26       migration/2                                         /                              0              
+262      jbd2/sda2-8                                         /                              0              
+263      kworker/R-ext4-rsv-conversion                                /                              0              
+2635     power-profiles-      /usr/libexec/power-profiles-   /                              9              
+2659     gdm-session-wor      gdm-session-worker [pam/gdm-   /                              9              
+2685     systemd              /usr/lib/systemd/systemd --u   /                              14             
+2686     (sd-pam)             (sd-pam)                       /                              10             
+2699     mpris-proxy          /usr/bin/mpris-proxy           /home/dima                     19             
+27       ksoftirqd/2                                         /                              0              
+2700     pipewire             /usr/bin/pipewire              /home/dima                     22             
+2701     pipewire             /usr/bin/pipewire -c filter-   /home/dima                     19             
+2705     wireplumber          /usr/bin/wireplumber           /home/dima                     20             
+2706     pipewire-pulse       /usr/bin/pipewire-pulse        /home/dima                     22             
+2707     dbus-daemon          /usr/bin/dbus-daemon --sessi   /home/dima                     23             
+2708     gnome-keyring-d      /usr/bin/gnome-keyring-daemo   /home/dima                     22             
+2748     xdg-document-po      /usr/libexec/xdg-document-po   /home/dima                     19             
+2761     xdg-permission-      /usr/libexec/xdg-permission-   /home/dima                     19             
+2768     fusermount3          fusermount3 -o rw,nosuid,nod   /                              21             
+2802     gdm-wayland-ses      /usr/libexec/gdm-wayland-ses   /home/dima                     29             
+2812     gnome-session-b      /usr/libexec/gnome-session-b   /home/dima                     40             
+29       kworker/2:0H-events_highpri                                /                              0              
+2900     gcr-ssh-agent        /usr/libexec/gcr-ssh-agent -   /home/dima                     46             
+2901     gnome-session-c      /usr/libexec/gnome-session-c   /home/dima                     44             
+2917     gvfsd                /usr/libexec/gvfsd             /home/dima                     43             
+2929     gvfsd-fuse           /usr/libexec/gvfsd-fuse /run   /                              43             
+2932     gnome-session-b      /usr/libexec/gnome-session-b   /home/dima                     44             
+2963     at-spi-bus-laun      /usr/libexec/at-spi-bus-laun   /home/dima                     51             
+2975     dbus-daemon          /usr/bin/dbus-daemon --confi   /home/dima                     51             
+2977     gnome-shell          /usr/bin/gnome-shell           /home/dima                     49             
+3        pool_workqueue_release                                /                              0              
+30       cpuhp/1                                             /                              0              
+3011     at-spi2-registr      /usr/libexec/at-spi2-registr   /home/dima                     51             
+3027     gnome-shell-cal      /usr/libexec/gnome-shell-cal   /home/dima                     54             
+3034     evolution-sourc      /usr/libexec/evolution-sourc   /home/dima                     52             
+3046     gjs                  /usr/bin/gjs -m /usr/share/g   /home/dima                     54             
+3052     ibus-daemon          /usr/bin/ibus-daemon --panel   /home/dima                     52             
+3054     gsd-a11y-settin      /usr/libexec/gsd-a11y-settin   /home/dima                     52             
+3055     gsd-color            /usr/libexec/gsd-color         /home/dima                     52             
+3056     gsd-datetime         /usr/libexec/gsd-datetime      /home/dima                     52             
+3061     gsd-housekeepin      /usr/libexec/gsd-housekeepin   /home/dima                     52             
+3070     gsd-keyboard         /usr/libexec/gsd-keyboard      /home/dima                     52             
+3072     gsd-media-keys       /usr/libexec/gsd-media-keys    /home/dima                     52             
+3073     gsd-power            /usr/libexec/gsd-power         /home/dima                     52             
+3074     gsd-print-notif      /usr/libexec/gsd-print-notif   /home/dima                     52             
+3077     gsd-rfkill           /usr/libexec/gsd-rfkill        /home/dima                     52             
+3079     gsd-screensaver      /usr/libexec/gsd-screensaver   /home/dima                     52             
+3090     goa-daemon           /usr/libexec/goa-daemon        /home/dima                     54             
+3094     gsd-disk-utilit      /usr/libexec/gsd-disk-utilit   /home/dima                     55             
+31       idle_inject/1                                       /                              0              
+3103     gsd-sharing          /usr/libexec/gsd-sharing       /home/dima                     52             
+3107     evolution-alarm      /usr/libexec/evolution-data-   /home/dima                     55             
+3144     gsd-smartcard        /usr/libexec/gsd-smartcard     /home/dima                     52             
+3155     gsd-sound            /usr/libexec/gsd-sound         /home/dima                     52             
+3161     gsd-wacom            /usr/libexec/gsd-wacom         /home/dima                     52             
+318      systemd-journal      /usr/lib/systemd/systemd-jou   /                              17             
+32       migration/1                                         /                              0              
+3216     gvfs-udisks2-vo      /usr/libexec/gvfs-udisks2-vo   /home/dima                     52             
+3227     evolution-calen      /usr/libexec/evolution-calen   /home/dima                     52             
+3232     goa-identity-se      /usr/libexec/goa-identity-se   /home/dima                     54             
+3241     ibus-memconf         /usr/libexec/ibus-memconf      /home/dima                     52             
+3244     ibus-extension-      /usr/libexec/ibus-extension-   /home/dima                     52             
+3248     gsd-printer          /usr/libexec/gsd-printer       /home/dima                     52             
+3276     ibus-portal          /usr/libexec/ibus-portal       /home/dima                     54             
+3294     gvfs-goa-volume      /usr/libexec/gvfs-goa-volume   /home/dima                     52             
+33       ksoftirqd/1                                         /                              0              
+3302     evolution-addre      /usr/libexec/evolution-addre   /home/dima                     52             
+3307     gvfs-mtp-volume      /usr/libexec/gvfs-mtp-volume   /home/dima                     52             
+3318     gvfs-afc-volume      /usr/libexec/gvfs-afc-volume   /home/dima                     52             
+3326     gvfs-gphoto2-vo      /usr/libexec/gvfs-gphoto2-vo   /home/dima                     52             
+3345     ibus-engine-sim      /usr/libexec/ibus-engine-sim   /home/dima                     52             
+3352     dconf-service        /usr/libexec/dconf-service     /home/dima                     52             
+3353     snapd-desktop-i      /snap/snapd-desktop-integrat   /var/snap/snapd-desktop-inte   111            
+339      systemd-oomd         /usr/lib/systemd/systemd-oom   /                              15             
+3426     snapd-desktop-i      /snap/snapd-desktop-integrat   /var/snap/snapd-desktop-inte   111            
+3444     gvfsd-trash          /usr/libexec/gvfsd-trash --s   /home/dima                     43             
+3467     xdg-desktop-por      /usr/libexec/xdg-desktop-por   /home/dima                     52             
+3489     localsearch-3        /usr/libexec/localsearch-3     /home/dima                     52             
+3490     xdg-desktop-por      /usr/libexec/xdg-desktop-por   /home/dima                     52             
+35       kworker/1:0H-events_highpri                                /                              0              
+3505     gjs                  /usr/bin/gjs -m /usr/share/g   /home/dima                     54             
+3531     gjs                  gjs /usr/share/gnome-shell/e   /home/dima                     55             
+3579     xdg-desktop-por      /usr/libexec/xdg-desktop-por   /home/dima                     52             
+3585     gvfsd-metadata       /usr/libexec/gvfsd-metadata    /home/dima                     52             
+36       cpuhp/3                                             /                              0              
+37       idle_inject/3                                       /                              0              
+3706     Xwayland             /usr/bin/Xwayland :0 -rootle   /home/dima                     55             
+3721     gsd-xsettings        /usr/libexec/gsd-xsettings     /home/dima                     52             
+3740     mutter-x11-fram      /usr/libexec/mutter-x11-fram   /home/dima                     54             
+3766     ibus-x11             /usr/libexec/ibus-x11          /home/dima                     52             
+377      kworker/0:3-events                                  /                              0              
+38       migration/3                                         /                              0              
+380      systemd-resolve      /usr/lib/systemd/systemd-res   /                              14             
+381      systemd-timesyn      /usr/lib/systemd/systemd-tim   /                              15             
+388      systemd-udevd        /usr/lib/systemd/systemd-ude   /                              14             
+39       ksoftirqd/3                                         /                              0              
+394      psimon                                              /                              0              
+3963     update-notifier      /usr/bin/update-notifier       /home/dima                     55             
+4        kworker/R-rcu_gp                                    /                              0              
+41       kworker/3:0H-events_highpri                                /                              0              
+42       kdevtmpfs                                           /                              0              
+4285     snap                 /usr/bin/snap userd            /home/dima                     54             
+43       kworker/R-inet_frag_wq                                /                              0              
+44       kauditd                                             /                              0              
+45       khungtaskd                                          /                              0              
+46       oom_reaper                                          /                              0              
+49       kworker/R-writeback                                 /                              0              
+5        kworker/R-sync_wq                                   /                              0              
+50       kcompactd0                                          /                              0              
+5076     fwupd                /usr/libexec/fwupd/fwupd       /                              14             
+51       ksmd                                                /                              0              
+52       khugepaged                                          /                              0              
+53       kworker/R-kintegrityd                                /                              0              
+54       kworker/R-kblockd                                   /                              0              
+55       kworker/R-blkcg_punt_bio                                /                              0              
+56       irq/9-acpi                                          /                              0              
+5706     kworker/u17:2-i915_flip                                /                              0              
+5785     kworker/1:1-events                                  /                              0              
+59       kworker/R-tpm_dev_wq                                /                              0              
+6        kworker/R-kvfree_rcu_reclaim                                /                              0              
+605      irq/31-mei_me                                       /                              0              
+61       kworker/R-ata_sff                                   /                              0              
+62       kworker/R-md                                        /                              0              
+63       kworker/R-md_bitmap                                 /                              0              
+64       kworker/R-edac-poller                                /                              0              
+6420     kworker/3:2-events                                  /                              0              
+6482     kworker/u16:2-events_unbound                                /                              0              
+65       kworker/R-devfreq_wq                                /                              0              
+66       watchdogd                                           /                              0              
+6659     chrome               /opt/google/chrome/chrome      /home/dima                     2121           
+6665     cat                  cat                            /home/dima                     61             
+6666     cat                  cat                            /home/dima                     61             
+6668     chrome_crashpad      /opt/google/chrome/chrome_cr   /home/dima                     61             
+6670     chrome_crashpad      /opt/google/chrome/chrome_cr   /home/dima                     61             
+6676     chrome               /opt/google/chrome/chrome --   /home/dima                     2121           
+6677     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              2161           
+6679     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              2161           
+67       kworker/0:1H-kblockd                                /                              0              
+6711     chrome               /opt/google/chrome/chrome --   /home/dima                     1680           
+6713     chrome               /opt/google/chrome/chrome --   /home/dima                     2004           
+6723     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              1756           
+677      kworker/R-kmemstick                                 /                              0              
+6859     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              1647           
+687      kworker/R-cfg80211                                  /                              0              
+6885     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              1644           
+69       kswapd0                                             /                              0              
+6900     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              1643           
+6928     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              1645           
+7        kworker/R-slub_flushwq                                /                              0              
+70       ecryptfs-kthread                                    /                              0              
+71       kworker/R-kthrotld                                  /                              0              
+72       kworker/R-acpi_thermal_pm                                /                              0              
+73       kworker/u16:3-events_power_efficient                                /                              0              
+7451     containerd           /usr/bin/containerd            /                              9              
+75       kworker/R-mld                                       /                              0              
+76       kworker/2:1H-i915_cleanup                                /                              0              
+77       kworker/R-ipv6_addrconf                                /                              0              
+7793     psimon                                              /                              0              
+7804     dockerd              /usr/bin/dockerd -H fd:// --   /                              12             
+8        kworker/R-netns                                     /                              0              
+8022     chrome               /opt/google/chrome/chrome --   /proc/6678/fdinfo              1743           
+8308     eog                  /usr/bin/eog /home/dima/Pict   /home/dima                     58             
+8341     kworker/3:0-i915-unordered                                /                              0              
+8349     kworker/0:2-cgroup_destroy                                /                              0              
+84       kworker/R-kstrp                                     /                              0              
+8401     kworker/1:2-cgroup_destroy                                /                              0              
+8552     kworker/2:1-cgroup_destroy                                /                              0              
+8571     kworker/2:3-i915-unordered                                /                              0              
+8576     kworker/u16:0-flush-8:0                                /                              0              
+86       kworker/u17:0-hci0                                  /                              0              
+8606     kworker/3:1-cgroup_destroy                                /                              0              
+8669     kworker/u16:1-kvfree_rcu_reclaim                                /                              0              
+8707     kworker/2:0-events                                  /                              0              
+8722     kworker/1:0-events                                  /                              0              
+8741     kworker/0:0-events                                  /                              0              
+8836     code                 /snap/code/210/usr/share/cod   /home/dima                     103            
+8840     code                 /snap/code/210/usr/share/cod   /home/dima                     103            
+8842     code                 /snap/code/210/usr/share/cod   /home/dima                     103            
+8870     chrome_crashpad      /snap/code/210/usr/share/cod   /home/dima                     105            
+8948     code                 /proc/self/exe --type=utilit   /home/dima                     107            
+8949     kworker/u16:4-events_unbound                                /                              0              
+8951     kworker/u16:5-events_unbound                                /                              0              
+9031     code                 /snap/code/210/usr/share/cod   /home/dima                     103            
+905      kworker/R-ttm                                       /                              0              
+9086     code                 /proc/self/exe --type=gpu-pr   /home/dima                     109            
+910      card1-crtc0                                         /                              0              
+9103     code                 /proc/self/exe --type=utilit   /home/dima                     99             
+911      card1-crtc1                                         /                              0              
+912      card1-crtc2                                         /                              0              
+9141     code                 /proc/self/exe --type=utilit   /home/dima                     94             
+9148     code                 /proc/self/exe --type=utilit   /home/dima                     105            
+915      kworker/R-cryptd                                    /                              0              
+9183     code                 /proc/self/exe --type=utilit   /home/dima                     100            
+9307     bash                 /usr/bin/bash --init-file /s   /home/dima/probe_git           96             
+9373     ssh-agent            /usr/bin/ssh-agent -D -a /ru   /                              24             
+9749     sudo                 sudo ./proc_group_monitor.sh   /home/dima/probe_git           94             
+9750     sudo                 sudo ./proc_group_monitor.sh   /home/dima/probe_git           94             
+9751     proc_group_moni      /bin/bash ./proc_group_monit   /home/dima/probe_git           27             
+99       kworker/R-charger_manager                                /                              0              
+
+[Sun Oct 12 03:41:33 PM MSK 2025] Скрипт завершён. Новые процессы записаны.

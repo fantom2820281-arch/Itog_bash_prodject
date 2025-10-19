@@ -48,68 +48,29 @@ echo "[$(date)] Создан Лог: $LOG_FILE" >> "$LOG_FILE"
 
 результат работы скрипта представлен на скриншоте ниже 
 
-![v1.1](img/scren_1.1.png)
+![v1.1](img/scr_1.1.png)
 
 #### 1.2 Дополнить скрипт, чтобы он получал имя процесса по номеру директории через прочтения /proc/N/exe (PID = номер папки)
 
-    bash
- #!/bin/bash
+   bash
 
-LOG_FILE="proc_full_$(date +%Y%m%d_%H%M%S).log"
+#!/bin/bash
 
-log() {
-    echo "[$(date -Iseconds)] $*" >> "$LOG_FILE"
-}
-
-log "Начало сбора данных по процессам..."
+LOG_FILE="proc_pids_$(date +%Y%m%d_%H%M%S).log"
+echo "[$(date)] Сканирование /proc..." > "$LOG_FILE"
 
 for entry in /proc/*; do
     pid=$(basename "$entry")
     if [[ "$pid" =~ ^[0-9]+$ ]] && [ -d "$entry" ]; then
-        log "=== PID: $pid ==="
-
-        # 1. cmdline
-        if [ -r "$entry/cmdline" ]; then
-            cmdline=$(tr '\0' ' ' < "$entry/cmdline" | sed 's/ $//')
-            log "cmdline: $cmdline"
+        if exe_path=$(readlink "$entry/exe" 2>/dev/null); then
+            echo "$pid: $exe_path" >> "$LOG_FILE"
+        else
+            echo "$pid: <не удалось прочитать exe>" >> "$LOG_FILE"
         fi
-
-        # 2. status (имя процесса и основные данные)
-        if [ -r "$entry/status" ]; then
-            name=$(grep -m1 "^Name:" "$entry/status" 2>/dev/null | cut -f2)
-            log "Name: $name"
-        fi
-
-        # 3. cwd
-        if [ -L "$entry/cwd" ]; then
-            cwd=$(readlink "$entry/cwd" 2>/dev/null)
-            log "cwd: $cwd"
-        fi
-
-        # 4. exe
-        if [ -L "$entry/exe" ]; then
-            exe=$(readlink "$entry/exe" 2>/dev/null)
-            log "exe: $exe"
-        fi
-
-        # 5. mounts
-        if [ -r "$entry/mounts" ]; then
-            mounts=$(wc -l < "$entry/mounts")
-            log "mounts: $mounts точек монтирования"
-        fi
-
-        # 6. limits
-        if [ -r "$entry/limits" ]; then
-            nproc=$(grep -m1 "Max processes" "$entry/limits" 2>/dev/null | awk '{print $4}')
-            log "Max processes limit: $nproc"
-        fi
-
-        log ""
     fi
 done
 
-log "Сбор завершён."
-echo "✅ Лог: $LOG_FILE"
+echo "[$(date)] Готово. Лог: $LOG_FILE" >> "$LOG_FILE"
       
   
 запустили скрипт создали файл 
@@ -156,8 +117,8 @@ status, cwd, root, fd
    bash
  #!/bin/bash
 
-# скрипт покажет процессы пользователя, чтобы отслеживать все процессы
-# необходимы права root используйте sudo
+#### скрипт покажет процессы пользователя, чтобы отслеживать все процессы
+#### необходимы права root используйте sudo
 
 GROUP="$1"
 if [[ ! "$GROUP" =~ ^(main|resources|files|system)$ ]]; then
@@ -251,7 +212,7 @@ echo "✅ Лог: $LOG_FILE"
 
 
 ---
----
+
 #### создаем задание для планировщика
 
 */5 * * * * /путь/к/proc_monitor.sh main >> /var/log/familyhearth_cron.log 2>&1
@@ -259,15 +220,178 @@ echo "✅ Лог: $LOG_FILE"
 ![cron](img/scr_log_1.png)
 
 
-проверяем каталог /var/log 
+проверяем каталог /var/log/  
+screeenshot
 ![varlog](img/scr_log_2.png)
 
 
----
----
----
 
+---
+---
+## Задание 2.1
+### Написать Bash-скрипт, который выполняет просмотр /proc/bus/input/ 
 
+   bash
+#!/bin/bash
+
+LOG="input_devices_$(date +%Y%m%d_%H%M%S).log"
+
+echo "[$(date)] Сканирование /proc/bus/input/..." > "$LOG"
+
+if [ -d /proc/bus/input ]; then
+    ls -l /proc/bus/input/ >> "$LOG" 2>&1
+else
+    echo "Директория /proc/bus/input отсутствует." >> "$LOG"
+fi
+
+echo "[$(date)] Готово. Лог: $LOG"
+echo "✅ $LOG"
+
+Данный скрипт создает лог файл указывает время создания и помещает его в дирректорию нахождения скрипта.
+
+запуск скрипта и содержимое созданного файла на скриншоте
+![dev1](img/scr_2.1.png)
+
+## 2.2  Дополнить скрипт, который разберет полученные данные по наименованию столбцов, для работы скрипта использовать циклы
+Мы делаем 
+ Чтение devices и handlers
+ Извлекаем device path (например, event0)
+ Выводим в виде таблицы,чтение произодим построчно
+
+    bash
+#!/bin/bash
+
+LOG="input_parsed_$(date +%Y%m%d_%H%M%S).log"
+
+if [ ! -d /proc/bus/input ]; then
+    echo "❌ /proc/bus/input не найден" > "$LOG"
+    exit 1
+fi
+
+{
+    echo "[$(date)] Анализ устройств ввода..."
+    printf "%-12s %-30s %-20s %-20s %s\n" "DEVICE" "NAME" "PHYS" "UNIQ" "HANDLER"
+    echo "------------------------------------------------------------------------"
+} > "$LOG"
+
+while IFS= read -r line; do
+    if [[ $line =~ ^I:[[:space:]]* ]]; then
+        dev=$(echo "$line" | awk '{print $NF}')
+        handler="/dev/input/$dev"
+    elif [[ $line =~ ^N:[[:space:]]* ]]; then
+        name=$(echo "$line" | cut -d'"' -f2)
+    elif [[ $line =~ ^P:[[:space:]]* ]]; then
+        phys=$(echo "$line" | cut -d'"' -f2)
+    elif [[ $line =~ ^U:[[:space:]]* ]]; then
+        uniq=$(echo "$line" | cut -d'"' -f2)
+        printf "%-12s %-30s %-20s %-20s %s\n" "$dev" "${name:0:28}" "${phys:0:18}" "${uniq:0:18}" "$handler" >> "$LOG"
+    fi
+done < /proc/bus/input/devices
+
+echo "[$(date)] Готово." >> "$LOG"
+echo "✅ Лог: $LOG"
+
+запуск скрипта и содержимое созданного файла на скриншоте
+![dev2.2](img/scr_2.2.png)
+
+## 2.3 Дополнить скрипт, чтобы создавался лог файл с записью времени выполнения скрипта и занесения новых устройств. Старые устройства не заносятся.
+
+Скрипт сравнивает новые устроиства с устроиствами в кеше, выводит время старта и заверщения, первый запуск все устройства считабтся новыми, последующие только выводит новые устройства. 
+скрипт имеет следующий порядок выполнения 
+ Получаем текущие устройства (по имени из /proc/bus/input/devices)
+ Извлекаем уникальные идентификаторы: NAME + PHYS (достаточно для различения)
+ Загружаем прошлые устройства
+ Создаём хэш для быстрого поиска
+ Заголовок таблицы
+ Сравниваем и выводим только новые
+ Сохраняем текущий список как baseline
+
+   bash
+
+#!/bin/bash
+
+LOG="input_new_$(date +%Y%m%d_%H%M%S).log"
+CACHE="/tmp/input_devices_cache"
+
+START=$(date)
+echo "[$START] Скрипт запущен. Поиск новых устройств..." > "$LOG"
+
+if [ ! -f /proc/bus/input/devices ]; then
+    echo "❌ /proc/bus/input/devices недоступен" >> "$LOG"
+    exit 1
+fi
+
+CURRENT=()
+while IFS= read -r line; do
+    if [[ $line =~ ^N:[[:space:]]* ]]; then
+        name=$(echo "$line" | cut -d'"' -f2)
+    elif [[ $line =~ ^P:[[:space:]]* ]]; then
+        phys=$(echo "$line" | cut -d'"' -f2)
+        CURRENT+=("$name|$phys")
+    fi
+done < /proc/bus/input/devices
+
+if [ -f "$CACHE" ]; then
+    mapfile -t LAST < "$CACHE"
+else
+    LAST=()
+fi
+
+declare -A LAST_MAP
+for dev in "${LAST[@]}"; do
+    LAST_MAP["$dev"]=1
+done
+
+{
+    printf "%-30s %s\n" "NAME" "PHYS"
+    echo "----------------------------------------------------------------"
+} >> "$LOG"
+
+NEW_FOUND=0
+
+for dev in "${CURRENT[@]}"; do
+    if [ -z "${LAST_MAP[$dev]}" ]; then
+        name=$(echo "$dev" | cut -d'|' -f1)
+        phys=$(echo "$dev" | cut -d'|' -f2)
+        printf "%-30s %s\n" "${name:0:28}" "$phys" >> "$LOG"
+        NEW_FOUND=1
+    fi
+done
+
+if [ "$NEW_FOUND" -eq 0 ]; then
+    echo "(Новых устройств не обнаружено)" >> "$LOG"
+fi
+
+printf '%s\n' "${CURRENT[@]}" > "$CACHE"
+
+END=$(date)
+echo "" >> "$LOG"
+echo "[$END] Скрипт завершён." >> "$LOG"
+
+echo "✅ Лог: $LOG"
+
+запуск скрипта и содержимое созданного файла на скриншоте
+![dev3](img/scr_2.3.png)
+
+---
+пишем зедание для планировщика cron
+ /home/dima/probe_git/mon_dev_3.sh >> /var/log/nev_dev.log 2>&1
+
+Данным заданием мы каждую минуту будем проверять подключены ли новые устройства
+
+запустим , проверим 
+
+скриншот 
+![newdevlog](img/scr_2.4.1.png)
+
+содержимое var/log
+
+скриншот
+![var_log](img/scr_2.4.2.png)
+
+---
+---
+--- 
 
 
  

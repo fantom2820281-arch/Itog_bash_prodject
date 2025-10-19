@@ -1,0 +1,4 @@
+[Sun 19 Oct 2025 08:40:39 PM MSK] Сканирование /proc/bus/input/...
+total 0
+-r--r--r-- 1 root root 0 Oct 19 20:40 devices
+-r--r--r-- 1 root root 0 Oct 19 20:40 handlers

@@ -1,0 +1,20 @@
+[Sun Oct 19 09:38:33 PM MSK 2025] Скрипт запущен. Поиск новых устройств...
+NAME                           PHYS
+----------------------------------------------------------------
+Sleep Button                   P: Phys=PNP0C0E/button/input0
+Lid Switch                     P: Phys=PNP0C0D/button/input0
+Power Button                   P: Phys=LNXPWRBN/button/input0
+AT Translated Set 2 keyboard   P: Phys=isa0060/serio0/input0
+SynPS/2 Synaptics TouchPad     P: Phys=isa0060/serio4/input0
+Telink SVEN WIRELESS MOUSE M   P: Phys=usb-0000:00:1a.0-1.2/input0
+Telink SVEN WIRELESS MOUSE C   P: Phys=usb-0000:00:1a.0-1.2/input0
+Telink SVEN WIRELESS MOUSE S   P: Phys=usb-0000:00:1a.0-1.2/input0
+Wireless hotkeys               P: Phys=HPQ6001/input0
+ST LIS3LV02DL Accelerometer    P: Phys=lis3lv02d/input0
+HP WMI hotkeys                 P: Phys=wmi/input0
+Video Bus                      P: Phys=LNXVIDEO/video/input0
+HDA Intel PCH Mic              P: Phys=ALSA
+HDA Intel PCH Front Headphon   P: Phys=ALSA
+HDA Intel PCH HDMI/DP,pcm=3    P: Phys=ALSA
+
+[Sun Oct 19 09:38:33 PM MSK 2025] Скрипт завершён.

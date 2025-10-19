@@ -1,0 +1,19 @@
+[Sun Oct 19 09:12:32 PM MSK 2025] Анализ устройств ввода...
+DEVICE       NAME                           PHYS                 UNIQ                 HANDLER
+------------------------------------------------------------------------
+Version=0000 Sleep Button                   P: Phys=PNP0C0E/bu   U: Uniq=             /dev/input/Version=0000
+Version=0000 Lid Switch                     P: Phys=PNP0C0D/bu   U: Uniq=             /dev/input/Version=0000
+Version=0000 Power Button                   P: Phys=LNXPWRBN/b   U: Uniq=             /dev/input/Version=0000
+Version=ab83 AT Translated Set 2 keyboard   P: Phys=isa0060/se   U: Uniq=             /dev/input/Version=ab83
+Version=01b1 SynPS/2 Synaptics TouchPad     P: Phys=isa0060/se   U: Uniq=             /dev/input/Version=01b1
+Version=0111 Telink SVEN WIRELESS MOUSE M   P: Phys=usb-0000:0   U: Uniq=             /dev/input/Version=0111
+Version=0111 Telink SVEN WIRELESS MOUSE C   P: Phys=usb-0000:0   U: Uniq=             /dev/input/Version=0111
+Version=0111 Telink SVEN WIRELESS MOUSE S   P: Phys=usb-0000:0   U: Uniq=             /dev/input/Version=0111
+Version=0000 Wireless hotkeys               P: Phys=HPQ6001/in   U: Uniq=             /dev/input/Version=0000
+Version=0000 ST LIS3LV02DL Accelerometer    P: Phys=lis3lv02d/   U: Uniq=             /dev/input/Version=0000
+Version=0000 HP WMI hotkeys                 P: Phys=wmi/input0   U: Uniq=             /dev/input/Version=0000
+Version=0000 Video Bus                      P: Phys=LNXVIDEO/v   U: Uniq=             /dev/input/Version=0000
+Version=0000 HDA Intel PCH Mic              P: Phys=ALSA         U: Uniq=             /dev/input/Version=0000
+Version=0000 HDA Intel PCH Front Headphon   P: Phys=ALSA         U: Uniq=             /dev/input/Version=0000
+Version=0000 HDA Intel PCH HDMI/DP,pcm=3    P: Phys=ALSA         U: Uniq=             /dev/input/Version=0000
+[Sun Oct 19 09:12:32 PM MSK 2025] Готово.

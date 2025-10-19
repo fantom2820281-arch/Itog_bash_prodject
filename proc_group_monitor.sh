@@ -12,11 +12,9 @@ fi
 LOG_FILE="proc_new_${GROUP}_$(date +%Y%m%d_%H%M%S).log"
 CACHE_FILE="/tmp/proc_last_pids"
 
-# Время старта
 START_TIME=$(date)
 echo "[$START_TIME] Скрипт запущен. Группа: $GROUP" > "$LOG_FILE"
 
-# Текущие PID
 CURRENT_PIDS=()
 for entry in /proc/*; do
     pid=$(basename "$entry")
@@ -25,18 +23,15 @@ for entry in /proc/*; do
     fi
 done
 
-# Загрузка предыдущих PID
 if [ -f "$CACHE_FILE" ]; then
     mapfile -t LAST_PIDS < "$CACHE_FILE"
 else
     LAST_PIDS=()
 fi
 
-# Преобразуем в строки для сравнения
 declare -A LAST_MAP
 for p in "${LAST_PIDS[@]}"; do LAST_MAP["$p"]=1; done
 
-# Заголовок таблицы
 case "$GROUP" in
     main)      COLS=("PID" "Name" "cmdline" "cwd" "environ_vars") ;;
     resources) COLS=("PID" "Name" "max_procs" "mounts" "fd_count") ;;
@@ -52,8 +47,7 @@ NEW_FOUND=0
 
 for pid in "${CURRENT_PIDS[@]}"; do
     if [ -z "${LAST_MAP[$pid]}" ]; then
-        # Новый процесс
-        entry="/proc/$pid"
+            entry="/proc/$pid"
         name=$(grep -m1 "^Name:" "$entry/status" 2>/dev/null | cut -f2)
         cmdline=$(tr '\0' ' ' < "$entry/cmdline" 2>/dev/null | sed 's/ $//' | cut -c1-28)
         cwd=$(readlink "$entry/cwd" 2>/dev/null | cut -c1-28)
@@ -86,7 +80,6 @@ if [ "$NEW_FOUND" -eq 0 ]; then
     echo "(Новых процессов не обнаружено)" >> "$LOG_FILE"
 fi
 
-# Сохраняем текущие PID как baseline
 printf '%s\n' "${CURRENT_PIDS[@]}" > "$CACHE_FILE"
 
 END_TIME=$(date)
@@ -94,4 +87,3 @@ echo "" >> "$LOG_FILE"
 echo "[$END_TIME] Скрипт завершён. Новые процессы записаны." >> "$LOG_FILE"
 
 echo "✅ Лог: $LOG_FILE"
-# данный скрипт создан QWEN3 при моем чутком руководстве

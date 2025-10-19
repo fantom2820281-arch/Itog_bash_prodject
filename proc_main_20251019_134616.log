@@ -1,0 +1,1394 @@
+[2025-10-19T13:46:16+03:00] Сбор группы: main
+[2025-10-19T13:46:16+03:00] === PID: 1 ===
+[2025-10-19T13:46:16+03:00] cmdline: /sbin/init splash
+[2025-10-19T13:46:16+03:00] Name: systemd
+[2025-10-19T13:46:16+03:00] cwd: 
+[2025-10-19T13:46:16+03:00] 
+[2025-10-19T13:46:16+03:00] === PID: 10 ===
+[2025-10-19T13:46:16+03:00] cmdline: 
+[2025-10-19T13:46:16+03:00] Name: kworker/0:0H-events_highpri
+[2025-10-19T13:46:16+03:00] cwd: 
+[2025-10-19T13:46:16+03:00] 
+[2025-10-19T13:46:16+03:00] === PID: 10007 ===
+[2025-10-19T13:46:16+03:00] cmdline: /usr/libexec/gvfsd-trash --spawner :1.22 /org/gtk/gvfs/exec_spaw/0
+[2025-10-19T13:46:16+03:00] Name: gvfsd-trash
+[2025-10-19T13:46:16+03:00] cwd: /home/dima
+[2025-10-19T13:46:16+03:00] environ: 43 переменных
+[2025-10-19T13:46:16+03:00] 
+[2025-10-19T13:46:16+03:00] === PID: 10030 ===
+[2025-10-19T13:46:16+03:00] cmdline: /usr/libexec/xdg-desktop-portal
+[2025-10-19T13:46:16+03:00] Name: xdg-desktop-por
+[2025-10-19T13:46:16+03:00] cwd: /home/dima
+[2025-10-19T13:46:16+03:00] environ: 52 переменных
+[2025-10-19T13:46:16+03:00] 
+[2025-10-19T13:46:16+03:00] === PID: 10053 ===
+[2025-10-19T13:46:16+03:00] cmdline: /usr/libexec/localsearch-3
+[2025-10-19T13:46:16+03:00] Name: localsearch-3
+[2025-10-19T13:46:16+03:00] cwd: /home/dima
+[2025-10-19T13:46:16+03:00] environ: 52 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 10054 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/libexec/xdg-desktop-portal-gnome
+[2025-10-19T13:46:17+03:00] Name: xdg-desktop-por
+[2025-10-19T13:46:17+03:00] cwd: /home/dima
+[2025-10-19T13:46:17+03:00] environ: 52 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 10066 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+[2025-10-19T13:46:17+03:00] Name: gjs
+[2025-10-19T13:46:17+03:00] cwd: /home/dima
+[2025-10-19T13:46:17+03:00] environ: 54 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 10091 ===
+[2025-10-19T13:46:17+03:00] cmdline: gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+[2025-10-19T13:46:17+03:00] Name: gjs
+[2025-10-19T13:46:17+03:00] cwd: /home/dima
+[2025-10-19T13:46:17+03:00] environ: 55 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 101 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/R-charger_manager
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 10149 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/libexec/xdg-desktop-portal-gtk
+[2025-10-19T13:46:17+03:00] Name: xdg-desktop-por
+[2025-10-19T13:46:17+03:00] cwd: /home/dima
+[2025-10-19T13:46:17+03:00] environ: 52 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 10154 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/libexec/gvfsd-metadata
+[2025-10-19T13:46:17+03:00] Name: gvfsd-metadata
+[2025-10-19T13:46:17+03:00] cwd: /home/dima
+[2025-10-19T13:46:17+03:00] environ: 52 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 10261 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/bin/update-notifier
+[2025-10-19T13:46:17+03:00] Name: update-notifier
+[2025-10-19T13:46:17+03:00] cwd: /home/dima
+[2025-10-19T13:46:17+03:00] environ: 55 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 120243 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/u16:2-events_power_efficient
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 120257 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/3:1-i915-unordered
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 120285 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/1:2
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 126 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/1:1H-kblockd
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 13 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/R-mm_percpu_wq
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 135200 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/u16:3-events_unbound
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 135365 ===
+[2025-10-19T13:46:17+03:00] cmdline: /bin/bash ./monitor_proc2.sh main
+[2025-10-19T13:46:17+03:00] Name: monitor_proc2.s
+[2025-10-19T13:46:17+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:17+03:00] environ: 90 переменных
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 14 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: rcu_tasks_kthread
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 15 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: rcu_tasks_rude_kthread
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1544 ===
+[2025-10-19T13:46:17+03:00] cmdline: avahi-daemon: running [4540s.local]
+[2025-10-19T13:46:17+03:00] Name: avahi-daemon
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1545 ===
+[2025-10-19T13:46:17+03:00] cmdline: @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+[2025-10-19T13:46:17+03:00] Name: dbus-daemon
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1549 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/libexec/gnome-remote-desktop-daemon --system
+[2025-10-19T13:46:17+03:00] Name: gnome-remote-de
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1553 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+[2025-10-19T13:46:17+03:00] Name: polkitd
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 156 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/3:1H-i915_cleanup
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1562 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/lib/snapd/snapd
+[2025-10-19T13:46:17+03:00] Name: snapd
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1567 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/libexec/accounts-daemon
+[2025-10-19T13:46:17+03:00] Name: accounts-daemon
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1570 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/libexec/switcheroo-control
+[2025-10-19T13:46:17+03:00] Name: switcheroo-cont
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1574 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/lib/systemd/systemd-logind
+[2025-10-19T13:46:17+03:00] Name: systemd-logind
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1576 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/lib/systemd/systemd-machined
+[2025-10-19T13:46:17+03:00] Name: systemd-machine
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1577 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/sbin/thermald --systemd --dbus-enable --adaptive
+[2025-10-19T13:46:17+03:00] Name: thermald
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1578 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/libexec/udisks2/udisksd
+[2025-10-19T13:46:17+03:00] Name: udisksd
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1579 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/sbin/virtlockd
+[2025-10-19T13:46:17+03:00] Name: virtlockd
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 158 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: kworker/3:3-events
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1582 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/sbin/virtlogd
+[2025-10-19T13:46:17+03:00] Name: virtlogd
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1596 ===
+[2025-10-19T13:46:17+03:00] cmdline: avahi-daemon: chroot helper
+[2025-10-19T13:46:17+03:00] Name: avahi-daemon
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 16 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: rcu_tasks_trace_kthread
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1637 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/sbin/rsyslogd -n -iNONE
+[2025-10-19T13:46:17+03:00] Name: rsyslogd
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1641 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/sbin/NetworkManager --no-daemon
+[2025-10-19T13:46:17+03:00] Name: NetworkManager
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 1645 ===
+[2025-10-19T13:46:17+03:00] cmdline: /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+[2025-10-19T13:46:17+03:00] Name: wpa_supplicant
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 167 ===
+[2025-10-19T13:46:17+03:00] cmdline: 
+[2025-10-19T13:46:17+03:00] Name: scsi_eh_0
+[2025-10-19T13:46:17+03:00] cwd: 
+[2025-10-19T13:46:17+03:00] 
+[2025-10-19T13:46:17+03:00] === PID: 168 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-scsi_tmf_0
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 17 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: ksoftirqd/0
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1721 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/ModemManager
+[2025-10-19T13:46:18+03:00] Name: ModemManager
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 175 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: scsi_eh_1
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 176 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-scsi_tmf_1
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 18 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: rcu_preempt
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 181 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: scsi_eh_2
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 182 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-scsi_tmf_2
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 185 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: scsi_eh_3
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1854 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: psimon
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1856 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: hwrng
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1859 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/cupsd -l
+[2025-10-19T13:46:18+03:00] Name: cupsd
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 186 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-scsi_tmf_3
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1862 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+[2025-10-19T13:46:18+03:00] Name: unattended-upgr
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1872 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/bin/containerd
+[2025-10-19T13:46:18+03:00] Name: containerd
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1891 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/u17:2-i915_flip
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 19 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: rcu_exp_par_gp_kthread_worker/0
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1907 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/libexec/bluetooth/bluetoothd
+[2025-10-19T13:46:18+03:00] Name: bluetoothd
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1921 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: krfcommd
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 193 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-sdhci
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 194 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: irq/18-mmc0
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1980 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/cups-browsed
+[2025-10-19T13:46:18+03:00] Name: cups-browsed
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1981 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+[2025-10-19T13:46:18+03:00] Name: dockerd
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1984 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/cron -f -P
+[2025-10-19T13:46:18+03:00] Name: cron
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 1985 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/libvirtd --timeout 120
+[2025-10-19T13:46:18+03:00] Name: libvirtd
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 2 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kthreadd
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 20 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: rcu_exp_gp_kthread_worker
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 2016 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-iprt-VBoxWQueue
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 2026 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: iprt-VBoxTscThread
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 2035 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/gdm3
+[2025-10-19T13:46:18+03:00] Name: gdm3
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 206 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: scsi_eh_4
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 207 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-scsi_tmf_4
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 208 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: scsi_eh_5
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 209 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/R-scsi_tmf_5
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 21 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: migration/0
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 212 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: kworker/u16:7-events_power_efficient
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 2149 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/lib/libvirt/libvirt_leaseshelper
+[2025-10-19T13:46:18+03:00] Name: dnsmasq
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 2150 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/lib/libvirt/libvirt_leaseshelper
+[2025-10-19T13:46:18+03:00] Name: dnsmasq
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 22 ===
+[2025-10-19T13:46:18+03:00] cmdline: 
+[2025-10-19T13:46:18+03:00] Name: idle_inject/0
+[2025-10-19T13:46:18+03:00] cwd: 
+[2025-10-19T13:46:18+03:00] 
+[2025-10-19T13:46:18+03:00] === PID: 2298 ===
+[2025-10-19T13:46:18+03:00] cmdline: /usr/libexec/rtkit-daemon
+[2025-10-19T13:46:19+03:00] Name: rtkit-daemon
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 23 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: cpuhp/0
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 23446 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: kworker/1:0-events
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 24 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: cpuhp/2
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 25 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: idle_inject/2
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 2542 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/libexec/colord
+[2025-10-19T13:46:19+03:00] Name: colord
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 2586 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/libexec/upowerd
+[2025-10-19T13:46:19+03:00] Name: upowerd
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 26 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: migration/2
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 263 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: jbd2/sda2-8
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 264 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: kworker/R-ext4-rsv-conversion
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 27 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: ksoftirqd/2
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 29 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: kworker/2:0H-events_highpri
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 2923 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/libexec/power-profiles-daemon
+[2025-10-19T13:46:19+03:00] Name: power-profiles-
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 2944 ===
+[2025-10-19T13:46:19+03:00] cmdline: gdm-session-worker [pam/gdm-password]
+[2025-10-19T13:46:19+03:00] Name: gdm-session-wor
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 3 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: pool_workqueue_release
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 30 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: cpuhp/1
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 31 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: idle_inject/1
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 319 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/lib/systemd/systemd-journald
+[2025-10-19T13:46:19+03:00] Name: systemd-journal
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 32 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: migration/1
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 33 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: ksoftirqd/1
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 333 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/lib/systemd/systemd-oomd
+[2025-10-19T13:46:19+03:00] Name: systemd-oomd
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 35 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: kworker/1:0H-events_highpri
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36 ===
+[2025-10-19T13:46:19+03:00] cmdline: 
+[2025-10-19T13:46:19+03:00] Name: cpuhp/3
+[2025-10-19T13:46:19+03:00] cwd: 
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36469 ===
+[2025-10-19T13:46:19+03:00] cmdline: /snap/code/211/usr/share/code/code --no-sandbox .
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 105 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36471 ===
+[2025-10-19T13:46:19+03:00] cmdline: /snap/code/211/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 105 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36472 ===
+[2025-10-19T13:46:19+03:00] cmdline: /snap/code/211/usr/share/code/code --type=zygote --no-sandbox
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 105 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36486 ===
+[2025-10-19T13:46:19+03:00] cmdline: /snap/code/211/usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/dima/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=768b9ed8-14d3-4a3e-a2db-25e060ccb63c&iid=768b9ed8-14d3-4a3e-a2db-25e060ccb63c&sid=768b9ed8-14d3-4a3e-a2db-25e060ccb63c --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.105.1 --annotation=lsb-release=Ubuntu 25.04 --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=37.6.0 --initial-client-fd=46 --shared-client-connection
+[2025-10-19T13:46:19+03:00] Name: chrome_crashpad
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 107 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36489 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.0CPZE3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+[2025-10-19T13:46:19+03:00] Name: Xwayland
+[2025-10-19T13:46:19+03:00] cwd: /home/dima
+[2025-10-19T13:46:19+03:00] environ: 55 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36495 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/libexec/gsd-xsettings
+[2025-10-19T13:46:19+03:00] Name: gsd-xsettings
+[2025-10-19T13:46:19+03:00] cwd: /home/dima
+[2025-10-19T13:46:19+03:00] environ: 52 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36504 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/libexec/mutter-x11-frames
+[2025-10-19T13:46:19+03:00] Name: mutter-x11-fram
+[2025-10-19T13:46:19+03:00] cwd: /home/dima
+[2025-10-19T13:46:19+03:00] environ: 54 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36520 ===
+[2025-10-19T13:46:19+03:00] cmdline: /usr/libexec/ibus-x11
+[2025-10-19T13:46:19+03:00] Name: ibus-x11
+[2025-10-19T13:46:19+03:00] cwd: /home/dima
+[2025-10-19T13:46:19+03:00] environ: 52 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36566 ===
+[2025-10-19T13:46:19+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=36486 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3297730706247289465,10504305243758784564,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 109 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36605 ===
+[2025-10-19T13:46:19+03:00] cmdline: /snap/code/211/usr/share/code/code --type=zygote --no-sandbox
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 105 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36619 ===
+[2025-10-19T13:46:19+03:00] cmdline: /proc/self/exe --type=gpu-process --disable-gpu-sandbox --no-sandbox --crashpad-handler-pid=36486 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=3,i,3297730706247289465,10504305243758784564,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 111 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36639 ===
+[2025-10-19T13:46:19+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=36486 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3297730706247289465,10504305243758784564,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 96 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36651 ===
+[2025-10-19T13:46:19+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --crashpad-handler-pid=36486 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3297730706247289465,10504305243758784564,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-19T13:46:19+03:00] Name: code
+[2025-10-19T13:46:19+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:19+03:00] environ: 103 переменных
+[2025-10-19T13:46:19+03:00] 
+[2025-10-19T13:46:19+03:00] === PID: 36663 ===
+[2025-10-19T13:46:20+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=36486 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3297730706247289465,10504305243758784564,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-19T13:46:20+03:00] Name: code
+[2025-10-19T13:46:20+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:20+03:00] environ: 101 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 36664 ===
+[2025-10-19T13:46:20+03:00] cmdline: /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=36486 --enable-crash-reporter=5dfccf3c-3fbb-418a-bb47-87beb8a33694,no_channel --user-data-dir=/home/dima/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3297730706247289465,10504305243758784564,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+[2025-10-19T13:46:20+03:00] Name: code
+[2025-10-19T13:46:20+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:20+03:00] environ: 102 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 36716 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/code/211/usr/share/code/code /snap/code/211/usr/share/code/resources/app/extensions/markdown-language-features/dist/serverWorkerMain --node-ipc --clientProcessId=36651
+[2025-10-19T13:46:20+03:00] Name: code
+[2025-10-19T13:46:20+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:20+03:00] environ: 109 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 36726 ===
+[2025-10-19T13:46:20+03:00] cmdline: /usr/bin/bash --init-file /snap/code/211/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+[2025-10-19T13:46:20+03:00] Name: bash
+[2025-10-19T13:46:20+03:00] cwd: /home/dima/probe_git
+[2025-10-19T13:46:20+03:00] environ: 91 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 36868 ===
+[2025-10-19T13:46:20+03:00] cmdline: /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+[2025-10-19T13:46:20+03:00] Name: ssh-agent
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 37 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: idle_inject/3
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 38 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: migration/3
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 380 ===
+[2025-10-19T13:46:20+03:00] cmdline: /usr/lib/systemd/systemd-resolved
+[2025-10-19T13:46:20+03:00] Name: systemd-resolve
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 381 ===
+[2025-10-19T13:46:20+03:00] cmdline: /usr/lib/systemd/systemd-timesyncd
+[2025-10-19T13:46:20+03:00] Name: systemd-timesyn
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 389 ===
+[2025-10-19T13:46:20+03:00] cmdline: /usr/lib/systemd/systemd-udevd
+[2025-10-19T13:46:20+03:00] Name: systemd-udevd
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 39 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: ksoftirqd/3
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 395 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: psimon
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 4 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/R-rcu_gp
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 41 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/3:0H-events_highpri
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 42 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kdevtmpfs
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 43 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/R-inet_frag_wq
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 44 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kauditd
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 45 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: khungtaskd
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 46 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/u16:1-events_power_efficient
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 47 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: oom_reaper
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 49 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/R-writeback
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 5 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/R-sync_wq
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 50 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kcompactd0
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 51 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: ksmd
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 52 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: khugepaged
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 53 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/R-kintegrityd
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 54 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/R-kblockd
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 55 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: kworker/R-blkcg_punt_bio
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 56 ===
+[2025-10-19T13:46:20+03:00] cmdline: 
+[2025-10-19T13:46:20+03:00] Name: irq/9-acpi
+[2025-10-19T13:46:20+03:00] cwd: 
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58574 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox
+[2025-10-19T13:46:20+03:00] Name: firefox
+[2025-10-19T13:46:20+03:00] cwd: /home/dima
+[2025-10-19T13:46:20+03:00] environ: 123 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58640 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/crashhelper 58574 9 /tmp/ 11
+[2025-10-19T13:46:20+03:00] Name: crashhelper
+[2025-10-19T13:46:20+03:00] cwd: /home/dima
+[2025-10-19T13:46:20+03:00] environ: 125 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58722 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId {8bf583e5-fdd4-4698-ac5d-e017b1d64f76} -parentPid 58574 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 1 forkserver
+[2025-10-19T13:46:20+03:00] Name: forkserver
+[2025-10-19T13:46:20+03:00] cwd: /home/dima
+[2025-10-19T13:46:20+03:00] environ: 139 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58727 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -parentBuildID 20251010015306 -prefsHandle 0:35368 -prefMapHandle 1:275275 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {ee190e47-1583-4f26-a762-c0b24f80123d} -parentPid 58574 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/7024/usr/lib/firefox/browser 2 socket
+[2025-10-19T13:46:20+03:00] Name: Socket Process
+[2025-10-19T13:46:20+03:00] cwd: /proc/58728/fdinfo
+[2025-10-19T13:46:20+03:00] environ: 163 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58740 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:35558 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ac99029f-4fc3-4d5f-a355-bad3a51dd611} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 3 tab
+[2025-10-19T13:46:20+03:00] Name: Privileged Cont
+[2025-10-19T13:46:20+03:00] cwd: /proc/58741/fdinfo
+[2025-10-19T13:46:20+03:00] environ: 189 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58749 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -parentBuildID 20251010015306 -prefsHandle 0:35558 -prefMapHandle 1:275275 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {bdd31982-9836-4ad6-abec-aa5c20c8266e} -parentPid 58574 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/7024/usr/lib/firefox/browser 4 rdd
+[2025-10-19T13:46:20+03:00] Name: RDD Process
+[2025-10-19T13:46:20+03:00] cwd: /proc/58751/fdinfo
+[2025-10-19T13:46:20+03:00] environ: 142 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58787 ===
+[2025-10-19T13:46:20+03:00] cmdline: /usr/bin/snap userd
+[2025-10-19T13:46:20+03:00] Name: snap
+[2025-10-19T13:46:20+03:00] cwd: /home/dima
+[2025-10-19T13:46:20+03:00] environ: 54 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 58952 ===
+[2025-10-19T13:46:20+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:45449 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {3b7c675c-5e0f-4176-9ac7-945ebaf4e359} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 5 tab
+[2025-10-19T13:46:20+03:00] Name: WebExtensions
+[2025-10-19T13:46:20+03:00] cwd: /proc/58954/fdinfo
+[2025-10-19T13:46:20+03:00] environ: 189 переменных
+[2025-10-19T13:46:20+03:00] 
+[2025-10-19T13:46:20+03:00] === PID: 59 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-tpm_dev_wq
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 59274 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -parentBuildID 20251010015306 -sandboxingKind 0 -prefsHandle 0:46322 -prefMapHandle 1:275275 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {9759e9d5-8bd1-426c-961c-335ed9fef124} -parentPid 58574 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/7024/usr/lib/firefox/browser 6 utility
+[2025-10-19T13:46:21+03:00] Name: Utility Process
+[2025-10-19T13:46:21+03:00] cwd: /proc/59275/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 144 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 59282 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42814 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {aad09970-022d-4527-a71f-bb4656697541} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 7 tab
+[2025-10-19T13:46:21+03:00] Name: Isolated Web Co
+[2025-10-19T13:46:21+03:00] cwd: /proc/59283/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 189 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 59463 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42814 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f1e52077-7d6c-4323-a925-2bba26ec63b5} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 9 tab
+[2025-10-19T13:46:21+03:00] Name: Isolated Servic
+[2025-10-19T13:46:21+03:00] cwd: /proc/59464/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 189 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 6 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-kvfree_rcu_reclaim
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 61 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-ata_sff
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 62 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-md
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 63 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-md_bitmap
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 635 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: irq/31-mei_me
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 64 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-edac-poller
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 65 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-devfreq_wq
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 66 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: watchdogd
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 66914 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/1:1-events
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 66989 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/2:0-events
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 67 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/0:1H-i915_cleanup
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 67041 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42976 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {d80371d5-9114-4afc-a5df-547ac97727d0} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 19 tab
+[2025-10-19T13:46:21+03:00] Name: Isolated Web Co
+[2025-10-19T13:46:21+03:00] cwd: /proc/67043/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 188 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 67094 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42976 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {3a8891e2-92df-4f06-b460-c78f2241cae5} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 21 tab
+[2025-10-19T13:46:21+03:00] Name: Isolated Web Co
+[2025-10-19T13:46:21+03:00] cwd: /proc/67096/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 188 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 67772 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/0:0-events
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 67776 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/3:0-i915-unordered
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 69 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kswapd0
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 7 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-slub_flushwq
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 70 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: ecryptfs-kthread
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 71 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-kthrotld
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 710 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-kmemstick
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 72 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-acpi_thermal_pm
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 747 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-cfg80211
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 76 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-mld
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 77 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/2:1H-i915_cleanup
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 78 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-ipv6_addrconf
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 8 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-netns
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 85 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/R-kstrp
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 88 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/u17:0-hci0
+[2025-10-19T13:46:21+03:00] cwd: 
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 89683 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42976 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {974dc03b-ddd2-4298-8ff7-45ad10cf5d39} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 23 tab
+[2025-10-19T13:46:21+03:00] Name: Isolated Web Co
+[2025-10-19T13:46:21+03:00] cwd: /proc/89685/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 188 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 89711 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42976 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {6296f8a0-e6ae-4ac1-acde-351db408b9da} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 24 tab
+[2025-10-19T13:46:21+03:00] Name: Web Content
+[2025-10-19T13:46:21+03:00] cwd: /proc/89713/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 188 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 89737 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42976 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {5e2339dc-ea82-44d0-8729-473a4fd5546b} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 25 tab
+[2025-10-19T13:46:21+03:00] Name: Web Content
+[2025-10-19T13:46:21+03:00] cwd: /proc/89739/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 188 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 89763 ===
+[2025-10-19T13:46:21+03:00] cmdline: /snap/firefox/7024/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42976 -prefMapHandle 1:275275 -jsInitHandle 2:224660 -parentBuildID 20251010015306 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {9505eac5-0df6-4c20-b0f9-47d7b3577f8a} -parentPid 58574 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7024/usr/lib/firefox/omni.ja -appomni /snap/firefox/7024/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7024/usr/lib/firefox/browser 26 tab
+[2025-10-19T13:46:21+03:00] Name: Web Content
+[2025-10-19T13:46:21+03:00] cwd: /proc/89765/fdinfo
+[2025-10-19T13:46:21+03:00] environ: 188 переменных
+[2025-10-19T13:46:21+03:00] 
+[2025-10-19T13:46:21+03:00] === PID: 89870 ===
+[2025-10-19T13:46:21+03:00] cmdline: 
+[2025-10-19T13:46:21+03:00] Name: kworker/u16:0-flush-8:0
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 918 ===
+[2025-10-19T13:46:22+03:00] cmdline: 
+[2025-10-19T13:46:22+03:00] Name: kworker/R-ttm
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9235 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/lib/systemd/systemd --user
+[2025-10-19T13:46:22+03:00] Name: systemd
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] environ: 0 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9236 ===
+[2025-10-19T13:46:22+03:00] cmdline: (sd-pam)
+[2025-10-19T13:46:22+03:00] Name: (sd-pam)
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9249 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/mpris-proxy
+[2025-10-19T13:46:22+03:00] Name: mpris-proxy
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 19 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9250 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/pipewire
+[2025-10-19T13:46:22+03:00] Name: pipewire
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 22 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9252 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/pipewire -c filter-chain.conf
+[2025-10-19T13:46:22+03:00] Name: pipewire
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 19 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9255 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/wireplumber
+[2025-10-19T13:46:22+03:00] Name: wireplumber
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 20 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9256 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/pipewire-pulse
+[2025-10-19T13:46:22+03:00] Name: pipewire-pulse
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 22 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9257 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+[2025-10-19T13:46:22+03:00] Name: dbus-daemon
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 23 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9261 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+[2025-10-19T13:46:22+03:00] Name: gnome-keyring-d
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 22 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 928 ===
+[2025-10-19T13:46:22+03:00] cmdline: 
+[2025-10-19T13:46:22+03:00] Name: card1-crtc0
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 929 ===
+[2025-10-19T13:46:22+03:00] cmdline: 
+[2025-10-19T13:46:22+03:00] Name: card1-crtc1
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9298 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/xdg-document-portal
+[2025-10-19T13:46:22+03:00] Name: xdg-document-po
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 19 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 930 ===
+[2025-10-19T13:46:22+03:00] cmdline: 
+[2025-10-19T13:46:22+03:00] Name: card1-crtc2
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9310 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/xdg-permission-store
+[2025-10-19T13:46:22+03:00] Name: xdg-permission-
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 19 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9317 ===
+[2025-10-19T13:46:22+03:00] cmdline: fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+[2025-10-19T13:46:22+03:00] Name: fusermount3
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 934 ===
+[2025-10-19T13:46:22+03:00] cmdline: 
+[2025-10-19T13:46:22+03:00] Name: kworker/R-cryptd
+[2025-10-19T13:46:22+03:00] cwd: 
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9354 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+[2025-10-19T13:46:22+03:00] Name: gdm-wayland-ses
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 29 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9365 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gnome-session-binary --session=ubuntu
+[2025-10-19T13:46:22+03:00] Name: gnome-session-b
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 40 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9430 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+[2025-10-19T13:46:22+03:00] Name: gcr-ssh-agent
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 46 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9431 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gnome-session-ctl --monitor
+[2025-10-19T13:46:22+03:00] Name: gnome-session-c
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 44 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9456 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gvfsd
+[2025-10-19T13:46:22+03:00] Name: gvfsd
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 43 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9474 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+[2025-10-19T13:46:22+03:00] Name: gvfsd-fuse
+[2025-10-19T13:46:22+03:00] cwd: /
+[2025-10-19T13:46:22+03:00] environ: 43 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9477 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+[2025-10-19T13:46:22+03:00] Name: gnome-session-b
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 44 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9513 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/at-spi-bus-launcher --launch-immediately
+[2025-10-19T13:46:22+03:00] Name: at-spi-bus-laun
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 51 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9514 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/gnome-shell
+[2025-10-19T13:46:22+03:00] Name: gnome-shell
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 49 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9527 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+[2025-10-19T13:46:22+03:00] Name: dbus-daemon
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 51 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9561 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/at-spi2-registryd --use-gnome-session
+[2025-10-19T13:46:22+03:00] Name: at-spi2-registr
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 51 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9577 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gnome-shell-calendar-server
+[2025-10-19T13:46:22+03:00] Name: gnome-shell-cal
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 54 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9584 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/evolution-source-registry
+[2025-10-19T13:46:22+03:00] Name: evolution-sourc
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 52 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9596 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+[2025-10-19T13:46:22+03:00] Name: gjs
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 54 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9611 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/bin/ibus-daemon --panel disable
+[2025-10-19T13:46:22+03:00] Name: ibus-daemon
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 52 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9613 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gsd-a11y-settings
+[2025-10-19T13:46:22+03:00] Name: gsd-a11y-settin
+[2025-10-19T13:46:22+03:00] cwd: /home/dima
+[2025-10-19T13:46:22+03:00] environ: 52 переменных
+[2025-10-19T13:46:22+03:00] 
+[2025-10-19T13:46:22+03:00] === PID: 9614 ===
+[2025-10-19T13:46:22+03:00] cmdline: /usr/libexec/gsd-color
+[2025-10-19T13:46:23+03:00] Name: gsd-color
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9615 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-datetime
+[2025-10-19T13:46:23+03:00] Name: gsd-datetime
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9616 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-housekeeping
+[2025-10-19T13:46:23+03:00] Name: gsd-housekeepin
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9618 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-keyboard
+[2025-10-19T13:46:23+03:00] Name: gsd-keyboard
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9621 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-media-keys
+[2025-10-19T13:46:23+03:00] Name: gsd-media-keys
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9624 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-power
+[2025-10-19T13:46:23+03:00] Name: gsd-power
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9625 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-print-notifications
+[2025-10-19T13:46:23+03:00] Name: gsd-print-notif
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9628 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-rfkill
+[2025-10-19T13:46:23+03:00] Name: gsd-rfkill
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9635 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-screensaver-proxy
+[2025-10-19T13:46:23+03:00] Name: gsd-screensaver
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9637 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/goa-daemon
+[2025-10-19T13:46:23+03:00] Name: goa-daemon
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 54 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9640 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-disk-utility-notify
+[2025-10-19T13:46:23+03:00] Name: gsd-disk-utilit
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 55 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9641 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-sharing
+[2025-10-19T13:46:23+03:00] Name: gsd-sharing
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 965 ===
+[2025-10-19T13:46:23+03:00] cmdline: 
+[2025-10-19T13:46:23+03:00] Name: kworker/2:4-events
+[2025-10-19T13:46:23+03:00] cwd: 
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9666 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/evolution-data-server/evolution-alarm-notify
+[2025-10-19T13:46:23+03:00] Name: evolution-alarm
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 55 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9675 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-smartcard
+[2025-10-19T13:46:23+03:00] Name: gsd-smartcard
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9679 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-sound
+[2025-10-19T13:46:23+03:00] Name: gsd-sound
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9735 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-wacom
+[2025-10-19T13:46:23+03:00] Name: gsd-wacom
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 97644 ===
+[2025-10-19T13:46:23+03:00] cmdline: 
+[2025-10-19T13:46:23+03:00] Name: kworker/0:1-cgroup_destroy
+[2025-10-19T13:46:23+03:00] cwd: 
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9786 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/ibus-memconf
+[2025-10-19T13:46:23+03:00] Name: ibus-memconf
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9787 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/ibus-extension-gtk3
+[2025-10-19T13:46:23+03:00] Name: ibus-extension-
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9795 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/ibus-portal
+[2025-10-19T13:46:23+03:00] Name: ibus-portal
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 54 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9799 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/evolution-calendar-factory
+[2025-10-19T13:46:23+03:00] Name: evolution-calen
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9801 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gvfs-udisks2-volume-monitor
+[2025-10-19T13:46:23+03:00] Name: gvfs-udisks2-vo
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9808 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/goa-identity-service
+[2025-10-19T13:46:23+03:00] Name: goa-identity-se
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 54 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9822 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gsd-printer
+[2025-10-19T13:46:23+03:00] Name: gsd-printer
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9850 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gvfs-goa-volume-monitor
+[2025-10-19T13:46:23+03:00] Name: gvfs-goa-volume
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9853 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/evolution-addressbook-factory
+[2025-10-19T13:46:23+03:00] Name: evolution-addre
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9860 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gvfs-mtp-volume-monitor
+[2025-10-19T13:46:23+03:00] Name: gvfs-mtp-volume
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9871 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gvfs-afc-volume-monitor
+[2025-10-19T13:46:23+03:00] Name: gvfs-afc-volume
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9879 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/gvfs-gphoto2-volume-monitor
+[2025-10-19T13:46:23+03:00] Name: gvfs-gphoto2-vo
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9898 ===
+[2025-10-19T13:46:23+03:00] cmdline: /usr/libexec/ibus-engine-simple
+[2025-10-19T13:46:23+03:00] Name: ibus-engine-sim
+[2025-10-19T13:46:23+03:00] cwd: /home/dima
+[2025-10-19T13:46:23+03:00] environ: 52 переменных
+[2025-10-19T13:46:23+03:00] 
+[2025-10-19T13:46:23+03:00] === PID: 9922 ===
+[2025-10-19T13:46:24+03:00] cmdline: /usr/libexec/dconf-service
+[2025-10-19T13:46:24+03:00] Name: dconf-service
+[2025-10-19T13:46:24+03:00] cwd: /home/dima
+[2025-10-19T13:46:24+03:00] environ: 52 переменных
+[2025-10-19T13:46:24+03:00] 
+[2025-10-19T13:46:24+03:00] === PID: 9923 ===
+[2025-10-19T13:46:24+03:00] cmdline: /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+[2025-10-19T13:46:24+03:00] Name: snapd-desktop-i
+[2025-10-19T13:46:24+03:00] cwd: /var/snap/snapd-desktop-integration/315
+[2025-10-19T13:46:24+03:00] environ: 111 переменных
+[2025-10-19T13:46:24+03:00] 
+[2025-10-19T13:46:24+03:00] === PID: 9989 ===
+[2025-10-19T13:46:24+03:00] cmdline: /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+[2025-10-19T13:46:24+03:00] Name: snapd-desktop-i
+[2025-10-19T13:46:24+03:00] cwd: /var/snap/snapd-desktop-integration/315
+[2025-10-19T13:46:24+03:00] environ: 111 переменных
+[2025-10-19T13:46:24+03:00] 
+[2025-10-19T13:46:24+03:00] Готово.

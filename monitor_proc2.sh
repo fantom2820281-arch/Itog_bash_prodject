@@ -4,10 +4,6 @@
 #./monitor_proc2.sh resources
 #./monitor_proc2.sh files
 #./monitor.sh system
-# описание логических групп в REDMI
-
-
-
 
 GROUP="$1"
 LOG_FILE="proc_${GROUP}_$(date +%Y%m%d_%H%M%S).log"
